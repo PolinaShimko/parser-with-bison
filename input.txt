@@ -1,0 +1,2154 @@
+﻿<!DOCTYPE html>
+<!-- saved from url=(0083)http://www.spbstu.ru/media/video-gallery/international-activities/days-spbpu-spain/ -->
+<html lang="ru" class="bx-core bx-no-touch bx-no-retina bx-chrome flash cookies geolocation svg cssescape supports target svgfilters cssall willchange svgasimg canvas canvastext webanimations webgl bgpositionshorthand csscalc cubicbezierrange cssgradients multiplebgs opacity csspointerevents csspositionsticky no-regions cssremunit rgba preserve3d placeholder scriptasync scriptdefer inlinesvg mediaqueries no-touchevents checked displaytable display-table fontface generatedcontent no-hairline cssinvalid lastchild nthchild cssscrollbar no-siblinggeneral no-subpixelfont cssvalid cssvhunit cssvwunit csschunit cssexunit hsla cssvmaxunit cssvminunit svgclippaths svgforeignobject smil textshadow backgroundblendmode objectfit object-fit no-wrapflow cssanimations csspseudoanimations appearance no-backdropfilter backgroundcliptext bgpositionxy bgrepeatround bgrepeatspace backgroundsize bgsizecover borderimage borderradius boxshadow boxsizing csscolumns csscolumns-width csscolumns-span csscolumns-fill csscolumns-gap csscolumns-rule csscolumns-rulecolor csscolumns-rulestyle csscolumns-rulewidth csscolumns-breakbefore csscolumns-breakafter csscolumns-breakinside no-displayrunin no-display-runin ellipsis cssfilters flexbox flexboxlegacy no-flexboxtweener flexwrap cssmask no-overflowscrolling cssreflections cssresize no-scrollsnappoints shapes textalignlast csstransforms csstransforms3d csstransitions csspseudotransitions userselect no-csshyphens softhyphens softhyphensfind no-ipad"><!--<![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+
+<title>Дни СПбПУ в Испании</title>
+<meta name="publisher" content="www.spbstu.ru">
+<meta property="fb:app_id" content="266419907037800">
+ <meta property="og:locale" content="ru_RU">
+<meta property="og:type" content="website">
+<meta property="og:description" content="Санкт-Петербургский Политехнический Университет Петра Великого. Peter the Great St. Petersburg Polytechnic University ">
+<meta property="og:title" content="Дни СПбПУ в Испании">
+<meta property="og:url" content="http://www.spbstu.ru/media/video-gallery/international-activities/days-spbpu-spain/">
+<meta property="og:image" content="http://www.spbstu.ru/local/templates/main/img/logo.png">
+<!-- Mobile Specific Metas ================================================== -->
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+ 
+
+<script type="text/javascript" src="./Дни СПбПУ в Испании_files/saved_resource"></script><script type="text/javascript" async="" src="./Дни СПбПУ в Испании_files/watch.js.Без названия"></script><script type="text/javascript" async="" src="./Дни СПбПУ в Испании_files/ba.js.Без названия"></script><script type="text/javascript">try {
+var AG_onLoad=function(func){if(document.readyState==="complete"||document.readyState==="interactive")func();else if(document.addEventListener)document.addEventListener("DOMContentLoaded",func);else if(document.attachEvent)document.attachEvent("DOMContentLoaded",func)};
+var AG_removeElementById = function(id) { var element = document.getElementById(id); if (element && element.parentNode) { element.parentNode.removeChild(element); }};
+var AG_removeElementBySelector = function(selector) { if (!document.querySelectorAll) { return; } var nodes = document.querySelectorAll(selector); if (nodes) { for (var i = 0; i < nodes.length; i++) { if (nodes[i] && nodes[i].parentNode) { nodes[i].parentNode.removeChild(nodes[i]); } } } };
+var AG_each = function(selector, fn) { if (!document.querySelectorAll) return; var elements = document.querySelectorAll(selector); for (var i = 0; i < elements.length; i++) { fn(elements[i]); }; };
+var AG_removeParent = function(el, fn) { while (el && el.parentNode) { if (fn(el)) { el.parentNode.removeChild(el); return; } el = el.parentNode; } };
+var AdFox_getCodeScript = function() {};
+AG_onLoad(function() { AG_each('iframe[id^="AdFox_iframe_"]', function(el) { if (el && el.parentNode) { el.parentNode.removeChild(el); } }); });
+try { Object.defineProperty(window, 'noAdsAtAll', { get: function() { return true; } }); } catch (ex) {}
+} catch (ex) { console.error('Error executing AG js: ' + ex); }</script><script type="text/javascript" data-skip-moving="true">(function(w, d, n) {var cl = "bx-core";var ht = d.documentElement;var htc = ht ? ht.className : undefined;if (htc === undefined || htc.indexOf(cl) !== -1){return;}var ua = n.userAgent;if (/(iPad;)|(iPhone;)/i.test(ua)){cl += " bx-ios";}else if (/Android/i.test(ua)){cl += " bx-android";}cl += (/(ipad|iphone|android|mobile|touch)/i.test(ua) ? " bx-touch" : " bx-no-touch");cl += w.devicePixelRatio && w.devicePixelRatio >= 2? " bx-retina": " bx-no-retina";var ieVersion = -1;if (/AppleWebKit/.test(ua)){cl += " bx-chrome";}else if ((ieVersion = getIeVersion()) > 0){cl += " bx-ie bx-ie" + ieVersion;if (ieVersion > 7 && ieVersion < 10 && !isDoctype()){cl += " bx-quirks";}}else if (/Opera/.test(ua)){cl += " bx-opera";}else if (/Gecko/.test(ua)){cl += " bx-firefox";}if (/Macintosh/i.test(ua)){cl += " bx-mac";}ht.className = htc ? htc + " " + cl : cl;function isDoctype(){if (d.compatMode){return d.compatMode == "CSS1Compat";}return d.documentElement && d.documentElement.clientHeight;}function getIeVersion(){if (/Opera/i.test(ua) || /Webkit/i.test(ua) || /Firefox/i.test(ua) || /Chrome/i.test(ua)){return -1;}var rv = -1;if (!!(w.MSStream) && !(w.ActiveXObject) && ("ActiveXObject" in w)){rv = 11;}else if (!!d.documentMode && d.documentMode >= 10){rv = 10;}else if (!!d.documentMode && d.documentMode >= 9){rv = 9;}else if (d.attachEvent && !/Opera/.test(ua)){rv = 8;}if (rv == -1 || rv == 8){var re;if (n.appName == "Microsoft Internet Explorer"){re = new RegExp("MSIE ([0-9]+[\.0-9]*)");if (re.exec(ua) != null){rv = parseFloat(RegExp.$1);}}else if (n.appName == "Netscape"){rv = 11;re = new RegExp("Trident/.*rv:([0-9]+[\.0-9]*)");if (re.exec(ua) != null){rv = parseFloat(RegExp.$1);}}}return rv;}})(window, document, navigator);</script>
+
+
+<link href="./Дни СПбПУ в Испании_files/kernel_main.css" type="text/css" rel="stylesheet">
+<link href="./Дни СПбПУ в Испании_files/page_6d3426faa37bf7365c820434a06439a0.css" type="text/css" rel="stylesheet">
+<link href="./Дни СПбПУ в Испании_files/template_8001101b92fc050ce53f7468d6e1aa21.css" type="text/css" data-template-style="true" rel="stylesheet">
+
+
+
+<link type="text/css" rel="stylesheet" id="color" href="./Дни СПбПУ в Испании_files/polytech-framework-color.css">
+
+
+
+<!-- CSS ================================================== -->
+
+<!-- web font  -->
+<link href="./Дни СПбПУ в Испании_files/css" rel="stylesheet" type="text/css">
+<!-- External plugins -->
+<link href="./Дни СПбПУ в Испании_files/footable.core.min.css" rel="stylesheet" type="text/css">
+<link href="./Дни СПбПУ в Испании_files/footable.metro.css" rel="stylesheet" type="text/css">
+<link href="./Дни СПбПУ в Испании_files/chosen.css" rel="stylesheet" type="text/css">
+<!-- Revolution slider  -->
+
+<!-- RS5.0 Main Stylesheet -->
+<link rel="stylesheet" type="text/css" href="./Дни СПбПУ в Испании_files/settings.css">
+ 
+<!-- RS5.0 Layers and Navigation Styles -->
+<link rel="stylesheet" type="text/css" href="./Дни СПбПУ в Испании_files/layers.css">
+<link rel="stylesheet" type="text/css" href="./Дни СПбПУ в Испании_files/navigation.css">
+
+
+<!--[if lt IE 9]>
+	<link rel="stylesheet" type="text/css" href="/local/templates/main rs-plugin/css/settings-ie8.css" />
+     <![endif]-->
+
+<!-- Favicons ================================================== -->
+<link rel="apple-touch-icon" sizes="57x57" href="http://www.spbstu.ru/local/templates/main/img/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="http://www.spbstu.ru/local/templates/main/img/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="http://www.spbstu.ru/local/templates/main/img/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="http://www.spbstu.ru/local/templates/main/img/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="http://www.spbstu.ru/local/templates/main/img/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="http://www.spbstu.ru/local/templates/main/img/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="http://www.spbstu.ru/local/templates/main/img/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="http://www.spbstu.ru/local/templates/main/img/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="http://www.spbstu.ru/local/templates/main/img/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="http://www.spbstu.ru/local/templates/main/img/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="http://www.spbstu.ru/local/templates/main/img/favicon-194x194.png" sizes="194x194">
+<link rel="icon" type="image/png" href="http://www.spbstu.ru/local/templates/main/img/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="http://www.spbstu.ru/local/templates/main/img/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="http://www.spbstu.ru/local/templates/main/img/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="http://www.spbstu.ru/local/templates/main/img/manifest.json">
+<link rel="shortcut icon" href="http://www.spbstu.ru/local/templates/main/img/favicon.ico">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/local/templates/main/img/mstile-144x144.png">
+<meta name="msapplication-config" content="/local/templates/main/img/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+<script src="./Дни СПбПУ в Испании_files/saved_resource(1)"></script><style type="text/css" id="ya_share_style">.b-share-popup-wrap{z-index:1073741823;position:absolute;width:500px}.b-share-popup{position:absolute;z-index:1073741823;border:1px solid #888;background:#FFF;color:#000}.b-share-popup-wrap .b-share-popup_down{top:0}.b-share-popup-wrap .b-share-popup_up{bottom:0}.b-share-popup-wrap_state_hidden{position:absolute!important;top:-9999px!important;right:auto!important;bottom:auto!important;left:-9999px!important;visibility:hidden!important}.b-share-popup,x:nth-child(1){border:0;padding:1px!important}@media all and (resolution=0){.b-share-popup,x:nth-child(1),x:-o-prefocus{padding:0!important;border:1px solid #888}}.b-share-popup__i{display:-moz-inline-box;display:inline-block;padding:5px 0!important;overflow:hidden;vertical-align:top;white-space:nowrap;visibility:visible;background:#FFF;-webkit-box-shadow:0 2px 9px rgba(0,0,0,.6);-moz-box-shadow:0 2px 9px rgba(0,0,0,.6);box-shadow:0 2px 9px rgba(0,0,0,.6)}.b-share-popup__item{font:1em/1.25em Arial,sans-serif;display:block;padding:5px 15px!important;white-space:nowrap;background:#FFF}.b-share-popup__item,a.b-share-popup__item:link,a.b-share-popup__item:visited{text-decoration:none!important;border:0!important}a.b-share-popup__item{cursor:pointer}a.b-share-popup__item .b-share-popup__item__text{display:inline;text-decoration:underline;color:#1A3DC1}a.b-share-popup__item:hover{word-spacing:0}a.b-share-popup__item:hover .b-share-popup__item__text{color:red;cursor:pointer}.b-share-popup__icon{display:-moz-inline-box;display:inline-block;margin:-3px 0 0;padding:0 5px 0 0!important;vertical-align:middle}.b-share-popup__icon_input{width:21px;height:16px;margin-top:-6px;padding:0!important}.b-share-popup__icon__input{margin-right:0;margin-left:2px;vertical-align:top}.b-share-popup__spacer{display:block;padding-top:10px!important}.b-share-popup__header{font:86%/1em Verdana,sans-serif;display:block;padding:10px 15px 5px!important;color:#999}.b-share-popup__header_first{padding-top:5px!important}.b-share-popup__input{font:86%/1em Verdana,sans-serif;display:block;padding:5px 15px!important;color:#999;text-align:left}.b-share-popup__input__input{font:1em/1em Verdana,sans-serif;display:block;width:10px;margin:5px 0 0;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;resize:none;text-align:left;direction:ltr}.b-share-popup_down .b-share-popup_with-link .b-share-popup__input_link{position:absolute;top:5px;right:0;left:0}.b-share-popup_up .b-share-popup_with-link .b-share-popup__input_link{position:absolute;right:0;bottom:5px;left:0}.b-share-popup_down .b-share-popup_with-link{padding-top:55px!important}.b-share-popup_up .b-share-popup_with-link{padding-bottom:55px!important}.b-share-popup_down .b-share-popup_expandable .b-share-popup__main{padding-bottom:25px!important}.b-share-popup_up .b-share-popup_expandable .b-share-popup__main{padding-top:25px!important}.b-share-popup_down .b-share-popup_yandexed{padding-bottom:10px!important}.b-share-popup_up .b-share-popup_yandexed{padding-top:10px!important}.b-share-popup__yandex{position:absolute;right:4px;bottom:2px;font:78.125%/1em Verdana,sans-serif;padding:3px!important;background:0 0}a.b-share-popup__yandex:link,a.b-share-popup__yandex:visited{color:#C6C5C5;text-decoration:none}a.b-share-popup__yandex:link:hover,a.b-share-popup__yandex:visited:hover{color:red;text-decoration:underline}.b-share-popup_up .b-share-popup__yandex{top:2px;bottom:auto}.b-share-popup_expandable .b-share-popup__yandex{right:auto;left:4px}.b-share-popup_to-right .b-share-popup_expandable .b-share-popup__yandex{right:4px;left:auto}.b-share-popup__expander .b-share-popup__item{position:absolute;bottom:5px;font:86%/1em Verdana,sans-serif;margin:10px 0 0;padding:5px 10px!important;cursor:pointer;color:#999;background:0 0}.b-share-popup_to-right,.b-share-popup_to-right .b-share-popup__expander{direction:rtl}.b-share-popup_to-right .b-share-popup__expander .b-share-popup__icon{padding:0 0 0 5px!important}.b-share-popup_up .b-share-popup__expander .b-share-popup__item{top:-5px;bottom:auto}.b-share-popup__expander .b-share-popup__item:hover .b-share-popup__item__text{text-decoration:underline}.b-share-popup__expander .b-ico_action_rarr,.b-share-popup_to-right .b-share-popup__expander .b-ico_action_larr,.b-share-popup_full .b-share-popup__expander .b-ico_action_larr,.b-share-popup_to-right .b-share-popup_full .b-share-popup__expander .b-ico_action_rarr,.b-share-popup__expander .b-share-popup__item__text_collapse,.b-share-popup_full .b-share-popup__item__text_expand{display:none}.b-share-popup_to-right .b-share-popup__expander .b-ico_action_rarr,.b-share-popup_full .b-share-popup__item__text_collapse,.b-share-popup_full .b-share-popup__expander .b-ico_action_rarr,.b-share-popup_to-right .b-share-popup_full .b-share-popup__expander .b-ico_action_larr{display:inline}.b-ico_action_rarr,.b-ico_action_larr{width:8px;height:7px;border:0}.b-share-popup__main,.b-share-popup__extra{direction:ltr;vertical-align:bottom;text-align:left}.b-share-popup_down .b-share-popup__main,.b-share-popup_down .b-share-popup__extra{vertical-align:top}.b-share-popup__main{display:-moz-inline-stack;display:inline-block}.b-share-popup__extra{display:none;margin:0 -10px 0 0}.b-share-popup_full .b-share-popup__extra{display:-moz-inline-stack;display:inline-block}.b-share-popup_to-right .b-share-popup__extra{margin:0 0 0 -10px}.b-share-popup__tail{position:absolute;width:21px;height:10px;margin:0 0 0 -11px}.b-share-popup_down .b-share-popup__tail{top:-10px;background:url("//yastatic.net/share/static/b-share-popup_down__tail.gif") 0 0 no-repeat}.b-share-popup_up .b-share-popup__tail{bottom:-10px;background:url("//yastatic.net/share/static/b-share-popup_up__tail.gif") 0 0 no-repeat}.b-share-popup_down .b-share-popup__tail,x:nth-child(1){top:-9px;background-image:url("//yastatic.net/share/static/b-share-popup_down__tail.png")}.b-share-popup_up .b-share-popup__tail,x:nth-child(1){bottom:-9px;background-image:url("//yastatic.net/share/static/b-share-popup_up__tail.png")}@media all and (resolution=0){.b-share-popup_down .b-share-popup__tail,x:nth-child(1),x:-o-prefocus{top:-10px;background-image:url("//yastatic.net/share/static/b-share-popup_down__tail.gif")}.b-share-popup_up .b-share-popup__tail,x:nth-child(1),x:-o-prefocus{bottom:-10px;background-image:url("//yastatic.net/share/static/b-share-popup_up__tail.gif")}}.b-share-popup .b-share-popup_show_form_mail,.b-share-popup .b-share-popup_show_form_html{padding:0!important}.b-share-popup .b-share-popup_show_form_mail .b-share-popup__main,.b-share-popup .b-share-popup_show_form_html .b-share-popup__main,.b-share-popup .b-share-popup_show_form .b-share-popup__main,.b-share-popup .b-share-popup_show_form_mail .b-share-popup__extra,.b-share-popup .b-share-popup_show_form_html .b-share-popup__extra,.b-share-popup .b-share-popup_show_form .b-share-popup__extra{height:15px;padding:0!important;overflow:hidden;visibility:hidden}.b-share-popup_show_form_mail .b-share-popup__expander,.b-share-popup_show_form_html .b-share-popup__expander,.b-share-popup_show_form .b-share-popup__expander,.b-share-popup_show_form_mail .b-share-popup__input_link,.b-share-popup_show_form_html .b-share-popup__input_link,.b-share-popup_show_form .b-share-popup__input_link{display:none}.b-share-popup__form{position:relative;display:none;overflow:hidden;padding:5px 0 0!important;margin:0 0 -15px;white-space:normal}.b-share-popup_show_form_mail .b-share-popup__form_mail,.b-share-popup_show_form_html .b-share-popup__form_html,.b-share-popup_show_form .b-share-popup__form{display:block}.b-share-popup__form__link{padding:5px!important;margin:0 0 5px 10px;text-decoration:underline;cursor:pointer;color:#1A3DC1}.b-share-popup__form__link,.b-share-popup__form__button{font:86%/1.4545em Verdana,sans-serif;float:left;display:inline}.b-share-popup__form__button{margin:5px 0 0 15px}.b-share-popup__form__close{font:86%/1.4545em Verdana,sans-serif;float:right;display:inline;padding:5px!important;margin:0 10px 5px 0;cursor:pointer;color:#999}a.b-share-popup__form__link:hover,a.b-share-popup__form__close:hover{text-decoration:underline;color:red}.b-share-popup_font_fixed .b-share-popup__item{font-size:12.8px}.b-share-popup_font_fixed .b-share-popup__header,.b-share-popup_font_fixed .b-share-popup__input,.b-share-popup_font_fixed .b-share-popup__expander .b-share-popup__item,.b-share-popup_font_fixed .b-share-popup__form__link,.b-share-popup_font_fixed .b-share-popup__form__button,.b-share-popup_font_fixed .b-share-popup__form__close{font-size:11px}.b-share-popup_font_fixed .b-share-popup__yandex{font-size:10px}.b-share-form-button{font:86%/17px Verdana,Arial,sans-serif;display:-moz-inline-box;display:inline-block;position:relative;height:19px;margin:0 3px;padding:0 4px;cursor:default;white-space:nowrap;text-decoration:none!important;color:#000!important;border:none;outline:none;background:url("//yastatic.net/share/static/b-share-form-button.png") 0 -20px repeat-x}.b-share-form-button:link:hover,.b-share-form-button:visited:hover{color:#000!important}.b-share-form-button__before,.b-share-form-button__after{position:absolute;width:3px;height:19px;background:url("//yastatic.net/share/static/b-share-form-button.png")}.b-share-form-button__before{margin-left:-7px}.b-share-form-button__after{margin-left:4px;background-position:-3px 0}.b-share-form-button::-moz-focus-inner{border:none}button.b-share-form-button .b-share-form-button__before,button.b-share-form-button .b-share-form-button__after{margin-top:-1px}@-moz-document url-prefix(){button.b-share-form-button .b-share-form-button__after{margin-top:-2px;margin-left:6px}button.b-share-form-button .b-share-form-button__before{margin-top:-2px;margin-left:-9px}}SPAN.b-share-form-button:hover,.b-share-form-button_state_hover{background-position:0 -60px}SPAN.b-share-form-button:hover .b-share-form-button__before,.b-share-form-button_state_hover .b-share-form-button__before{background-position:0 -40px}SPAN.b-share-form-button:hover .b-share-form-button__after,.b-share-form-button_state_hover .b-share-form-button__after{background-position:-3px -40px}.b-share-form-button_state_pressed,.b-share-form-button_state_pressed .b-share-form-button_share{background-position:0 -100px!important}.b-share-form-button_state_pressed .b-share-form-button__before{background-position:0 -80px!important}.b-share-form-button_state_pressed .b-share-form-button__after{background-position:-3px -80px!important}button.b-share-form-button_state_pressed{overflow:visible}.b-share-form-button_icons{position:relative;padding:0;background-position:0 -20px!important}.b-share-form-button_icons .b-share-form-button__before{left:0;margin-left:-3px;background-position:0 0!important}.b-share-form-button_icons .b-share-form-button__after{z-index:-1;margin-left:0;background-position:-3px 0!important}.b-share-form-button_icons .b-share__handle{padding:2px!important}.b-share-form-button_icons .b-share__handle_more{position:relative;padding-right:6px!important;margin-right:-4px}.b-share-form-button_icons .b-share-icon{opacity:.5;background-image:url("//yastatic.net/share/static/b-share-icon_size_14.png")}.b-share-form-button_icons A.b-share__handle:hover .b-share-icon{opacity:1}.b-share{font:86%/1.4545em Arial,sans-serif;display:-moz-inline-box;display:inline-block;padding:1px 3px 1px 4px!important;vertical-align:middle}.b-share .b-share-form-button{font-size:1em}.b-share__text .b-share-icon{margin:0 5px 0 0;border:none}.b-share__text{margin-right:5px}.b-share__handle{float:left;height:16px;padding:5px 3px 5px 2px!important;cursor:pointer;text-align:left;text-decoration:none!important}.b-share__handle_cursor_default{cursor:default}.b-share__handle .b-share-form-button{margin-top:-2px}.b-share__hr{display:none;float:left;width:1px;height:26px;margin:0 3px 0 2px}a.b-share__handle:hover .b-share__text{text-decoration:underline;color:red}.b-share_bordered{padding:0 2px 0 3px!important;border:1px solid #E4E4E4;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px}.b-share_bordered .b-share__hr{display:inline;background:#E4E4E4}.b-share_link{margin:-8px 0}a.b-share_link{margin:0}.b-share_link .b-share__text{text-decoration:underline;color:#1A3DC1}.b-share-form-button_share{padding-left:26px!important;vertical-align:top}.b-share-form-button_share .b-share-form-button__before{margin-left:-29px}.b-share-form-button_share .b-share-form-button__icon{position:absolute;width:20px;height:17px;margin:1px 0 0 -23px;background:url("//yastatic.net/share/static/b-share-form-button_share__icon.png") 0 0 no-repeat}.b-share-pseudo-link{border-bottom:1px dotted;cursor:pointer;text-decoration:none!important}.b-share_font_fixed{font-size:11px}.b-share__handle_more{font-size:9px;margin-top:-1px;color:#7B7B7B}A.b-share__handle_more:hover{color:#000}.b-share__group{float:left}.b-share-icon{float:left;display:inline;overflow:hidden;width:16px;height:16px;padding:0!important;vertical-align:top;border:0;background:url("//yastatic.net/share/static/b-share-icon.png") 0 99px no-repeat}.b-share-icon_vkontakte,.b-share-icon_custom{background-position:0 0}.b-share-icon_yaru,.b-share-icon_yaru_photo,.b-share-icon_yaru_wishlist{background-position:0 -17px}.b-share-icon_lj{background-position:0 -34px}.b-share-icon_twitter{background-position:0 -51px}.b-share-icon_facebook{background-position:0 -68px}.b-share-icon_moimir{background-position:0 -85px}.b-share-icon_friendfeed{background-position:0 -102px}.b-share-icon_mail{background-position:0 -119px}.b-share-icon_html{background-position:0 -136px}.b-share-icon_postcard{background-position:0 -153px}.b-share-icon_odnoklassniki{background-position:0 -170px}.b-share-icon_blogger{background-position:0 -187px}.b-share-icon_delicious{background-position:0 -221px}.b-share-icon_gbuzz{background-position:0 -238px}.b-share-icon_linkedin{background-position:0 -255px}.b-share-icon_myspace{background-position:0 -272px}.b-share-icon_evernote{background-position:0 -289px}.b-share-icon_digg{background-position:0 -306px}.b-share-icon_juick{background-position:0 -324px}.b-share-icon_moikrug{background-position:0 -341px}.b-share-icon_yazakladki{background-position:0 -358px}.b-share-icon_liveinternet{background-position:0 -375px}.b-share-icon_tutby{background-position:0 -392px}.b-share-icon_diary{background-position:0 -409px}.b-share-icon_gplus{background-position:0 -426px}.b-share-icon_pocket{background-position:0 -443px}.b-share-icon_surfingbird{background-position:0 -460px}.b-share-icon_pinterest{background-position:0 -477px}.b-share-icon_renren{background-position:0 0}.b-share-icon_renren,.b-share-icon_sina_weibo{background:url("//yastatic.net/share/static/b-share-icon__china.png") no-repeat}.b-share-icon_sina_weibo{background-position:-18px 0}.b-share-icon_qzone{background-position:-36px 0}.b-share-icon_qzone,.b-share-icon_tencent_weibo{background:url("//yastatic.net/share/static/b-share-icon__china.png") no-repeat}.b-share-icon_tencent_weibo{background-position:-54px 0}.b-share_theme_dark .b-share-icon{background:url("//yastatic.net/share/static/b-share-icons__theme_dark.png") 99px 0 no-repeat}.b-share_theme_dark .b-share-icon_odnoklassniki{background-position:-4px -3px}.b-share_theme_dark .b-share-icon_vkontakte{background-position:-24px -3px}.b-share_theme_dark .b-share-icon_twitter{background-position:-44px -3px}.b-share_theme_dark .b-share-icon_facebook{background-position:-64px -3px}.b-share_theme_dark .b-share-icon_lj{background-position:-85px -3px}.b-share_theme_dark .b-share-icon_yaru{background-position:-105px -3px}.b-share_theme_dark .b-share-popup .b-share-icon_odnoklassniki,.b-share_theme_dark .b-share-icon_odnoklassniki:hover{background-position:-4px -28px}.b-share_theme_dark .b-share-popup .b-share-icon_vkontakte,.b-share_theme_dark .b-share-icon_vkontakte:hover{background-position:-24px -28px}.b-share_theme_dark .b-share-popup .b-share-icon_twitter,.b-share_theme_dark .b-share-icon_twitter:hover{background-position:-44px -28px}.b-share_theme_dark .b-share-popup .b-share-icon_facebook,.b-share_theme_dark .b-share-icon_facebook:hover{background-position:-64px -28px}.b-share_theme_dark .b-share-popup .b-share-icon_lj,.b-share_theme_dark .b-share-icon_lj:hover{background-position:-85px -28px}.b-share_theme_dark .b-share-popup .b-share-icon_yaru,.b-share_theme_dark .b-share-icon_yaru:hover{background-position:-105px -28px}.b-share_theme_dark .b-share-form-button_share .b-share-form-button__icon{background-image:url("//yastatic.net/share/static/b-share-form-button_share__icon_dark.png")}.b-share_theme_dark .b-share-form-button{color:#fff!important;opacity:.8}.b-share_theme_dark .b-share__handle:hover .b-share-form-button,.b-share_theme_dark .b-share-form-button:hover{opacity:1;cursor:pointer}.b-share_theme_dark .b-share-form-button,.b-share_theme_dark .b-share-form-button__before,.b-share_theme_dark .b-share-form-button__after{background:0 0}.b-share_theme_dark .b-share-popup__i{background-color:#333;border-radius:10px;-webkit-box-shadow:0 2px 9px rgba(255,255,255,.6);-moz-box-shadow:0 2px 9px rgba(255,255,255,.6);box-shadow:0 2px 9px rgba(255,255,255,.6)}.b-share_theme_dark .b-share__text{color:#AAA}.b-share_theme_dark .b-share-popup{color:#AAA;border-radius:10px;background-color:#333;background-color:rgba(50,50,50,.3)}.b-share_theme_dark .b-share-popup__item{background:0 0;color:#ccc}.b-share_theme_dark .b-share-popup .b-share-popup__item__text{color:#ccc}.b-share_theme_counter .b-share{display:inline-block;vertical-align:middle;white-space:nowrap}.b-share-counter{font:14px Arial,sans-serif;line-height:18px;display:none;float:left;margin:3px 6px 3px 3px;color:#fff}.b-share_theme_counter .b-share_type_small .b-share-counter{font-size:11px;line-height:14px;margin:2px 6px 2px 1px}.b-share_theme_counter .b-share-btn__counter .b-share-counter{display:block}.b-share-btn__counter{text-decoration:none}.b-share_theme_counter .b-share-btn__wrap{position:relative;float:left;margin-left:5px}.b-share_theme_counter .b-share_type_small .b-share-btn__wrap{margin-left:4px}.b-share_theme_counter .b-share-btn__wrap:first-child{margin-left:0}.b-share_theme_counter .b-share__link{display:inline-block;cursor:pointer;-webkit-border-radius:3px;border-radius:3px}.b-share_theme_counter .b-share_type_small .b-share__link{-webkit-border-radius:2px;border-radius:2px}.b-share_theme_counter .b-share-icon{display:block;float:left;width:24px;height:24px;background-image:url("//yastatic.net/share/static/b-share_counter_large.png");background-position:-20px 0}.b-share_theme_counter .b-share_type_small .b-share-icon{width:18px;height:18px;background-image:url("//yastatic.net/share/static/b-share_counter_small.png")}.b-share_theme_counter .b-share-icon_facebook{background-position:0 0}.b-share_theme_counter .b-share-btn__facebook{background-color:#3c5a98}.b-share_theme_counter .b-share-btn__facebook:hover{background-color:#30487a}.b-share_theme_counter .b-share-btn__facebook:active{border-top:2px solid #24365a;background-color:#334d81}.b-share_theme_counter .b-share-icon_moimir{background-position:0 -29px}.b-share_theme_counter .b-share-btn__moimir{background-color:#226eb7}.b-share_theme_counter .b-share-btn__moimir:hover{background-color:#1b5892}.b-share_theme_counter .b-share-btn__moimir:active{border-top:2px solid #14426d;background-color:#1d5e9c}.b-share_theme_counter .b-share-icon_vkontakte{background-position:0 -58px}.b-share_theme_counter .b-share-btn__vkontakte{background-color:#48729e}.b-share_theme_counter .b-share-btn__vkontakte:hover{background-color:#3a5b7e}.b-share_theme_counter .b-share-btn__vkontakte:active{border-top:2px solid #2b445e;background-color:#3d6186}.b-share_theme_counter .b-share-icon_twitter{background-position:0 -87px}.b-share_theme_counter .b-share-btn__twitter{background-color:#00aced}.b-share_theme_counter .b-share-btn__twitter:hover{background-color:#008abe}.b-share_theme_counter .b-share-btn__twitter:active{border-top:2px solid #00668d;background-color:#0092ca}.b-share_theme_counter .b-share-icon_odnoklassniki{background-position:0 -116px}.b-share_theme_counter .b-share-btn__odnoklassniki{background-color:#ff9f4d}.b-share_theme_counter .b-share-btn__odnoklassniki:hover{background-color:#cc7f3e}.b-share_theme_counter .b-share-btn__odnoklassniki:active{border-top:2px solid #975e2e;background-color:#d98742}.b-share_theme_counter .b-share-icon_gplus{background-position:0 -145px}.b-share_theme_counter .b-share-btn__gplus{background-color:#c25234}.b-share_theme_counter .b-share-btn__gplus:hover{background-color:#9b422a}.b-share_theme_counter .b-share-btn__gplus:active{border-top:2px solid #73311f;background-color:#a5462c}.b-share_theme_counter .b-share-icon_yaru{background-position:0 -174px}.b-share_theme_counter .b-share-btn__yaru{background-color:#d83933}.b-share_theme_counter .b-share-btn__yaru:hover{background-color:#ad2e29}.b-share_theme_counter .b-share-btn__yaru:active{border-top:2px solid #80221e;background-color:#b8312b}.b-share_theme_counter .b-share-icon_pinterest{background-position:0 -203px}.b-share_theme_counter .b-share-btn__pinterest{background-color:#cd1e27}.b-share_theme_counter .b-share-btn__pinterest:hover{background-color:#a4181f}.b-share_theme_counter .b-share-btn__pinterest:active{border-top:2px solid #7b1217;background-color:#ae1921}.b-share_theme_counter .b-share__link:active{height:22px}.b-share_theme_counter .b-share_type_small .b-share__link:active{height:16px}.b-share_theme_counter .b-share__link:active .b-share-icon,.b-share_theme_counter .b-share__link:active .b-share-counter{position:relative;top:-1px}.b-share_theme_counter .b-share__link::after{position:absolute;top:0;right:0;bottom:0;left:0;content:"";background-image:url(data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)}.b-share_theme_counter .b-share__handle{height:auto;padding:0!important}</style><script src="./Дни СПбПУ в Испании_files/ga.js.Без названия" type="text/javascript"></script></head>
+<body class="activate-appear-animation header-6 header-polytech"><script charset="UTF-8" src="./Дни СПбПУ в Испании_files/812933_ALL.js.Без названия"></script><script charset="UTF-8" src="./Дни СПбПУ в Испании_files/812933_BNX.js.Без названия"></script><script charset="UTF-8" src="./Дни СПбПУ в Испании_files/linkcheck.js.Без названия"></script><script async="" src="./Дни СПбПУ в Испании_files/analytics.js.Без названия"></script>
+    <!--[if lt IE 9]>
+            <div class="container"><p class="alert warning">Вы используете <strong>устаревший и ограниченный по возможностям</strong> браузер. Компания Microsoft более не поддерживает Ваш браузер. Мы рекомендуем Вам использовать актуальные и защищенные браузеры: <a href="http://browsehappy.com/">Выберите обновленный браузер для себя.</a></p></div>
+        <![endif]-->
+<!-- global-wrapper -->
+<div id="global-wrapper">
+<div></div>
+<!-- header -->
+	  <header class="menu-header politech-header scroll-header" role="banner">
+    <nav class="poly_menu_buttons">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 clearfix">
+            <div class="small-logo-container"> <a href="http://www.spbstu.ru/" class="poly_logo_small hidden-lg"> <img src="./Дни СПбПУ в Испании_files/polytech_logo_sm.svg" alt=""></a>
+              <div class="clear"></div>
+            </div>
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#menu-container"> <span class="sr-only">Навигация</span><i class="fa fa-bars"></i></button>
+          </div>   
+        </div>
+      </div>
+    </nav>
+    
+    <!--  Навигационный блок меню институтов и подразделений -->
+    <div class="container-fluid collapse navbar-collapse" id="menu-container">
+      <div class="col-md-12">
+		
+      <a class="small-eye" href="http://www.spbstu.ru/media/video-gallery/international-activities/days-spbpu-spain/#" itemprop="Copy" title="Версия для слабовидящих"><i class="fa fa-eye"></i><span>Версия для слабовидящих</span></a>
+            <div class="small-search clearfix">
+					<div id="sb-search_1">
+	<form class="clearfix" action="http://www.spbstu.ru/search/index.php">
+		<input class="sb-search-input-small" placeholder="Поиск по сайту..." type="search" value="" name="search" id="search_1">
+		<!--<input class="sb-search-submit" type="submit" value="">--> 
+		<span class="sb-icon-search"></span>
+	</form>
+	</div>
+			</div>
+        <nav class="inst-menu navbar-right clearfix" id="instMenu" role="navigation">
+          
+          <ul class="inst-small-screen clearfix">
+            <li><a href="http://www.spbstu.ru/structure/institutes/">Институты</a></li>
+            <li><a href="http://www.spbstu.ru/structure/units/">Подразделения</a></li>
+          </ul>
+          
+		  	<div id="sb-search" class="sb-search">
+	<form action="http://www.spbstu.ru/search/index.php">
+		<input id="search" class="sb-search-input" placeholder="Поиск по сайту..." type="search" value="" name="q" autocomplete="off">
+		<input name="s" class="sb-search-submit" type="submit" value="">
+		<span class="sb-icon-search"></span>
+	</form>
+	</div><div class="dropdown-lang"><!-- -->
+	<a href="http://spbstu.ru/">ru<i class="fa fa-caret-down"></i></a>
+	    <ul>
+				<li><a href="http://english.spbstu.ru/">en</a></li>
+				<li><a href="http://chinese.spbstu.ru/">cn</a></li>
+		    </ul>
+	</div>
+<a href="http://www.spbstu.ru/media/video-gallery/international-activities/days-spbpu-spain/#" class="eye" title="Версия для слабовидящих"><i class="fa fa-eye"></i></a>
+          <a class="coord-council-btn" href="http://ksid.spbstu.ru/" title="Координационный совет
+по области образования «Инженерное дело,
+технологии и технические науки»" target="_blank">КС «Инженерное дело»</a>
+                <ul class="nav navbar-nav mega-list">
+			<!-- меню институты -->
+            <li class="polytech-mega-menu-trigger">
+	<a href="javascript:void(0)" class="has-sub-menu">Институты</a>
+    <div class="polytech-mega-menu sub-menu"><div class="inner-mega-menu">
+    <div class="col-md-12 additional_buttons">
+		<a href="http://www.spbstu.ru/campus-map/" class="btn default"><i class="fa fa-map-marker fa-fw"></i> Карта кампуса</a>
+		<a href="http://www.spbstu.ru/virt_polytech/" target="_blank" class="btn default"><i class="fa fa-street-view  fa-fw"></i> Виртуальный тур</a>
+	</div>
+						<div class="col-md-12">
+                  <div class="mega-inner">
+                    <div class="h2">Базовые институты</div>
+							<ul>
+																				<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/gumanitarnyy_institut/" class="">Гуманитарный институт</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/inzhenerno_stroitelnyy_institut/" class="">Инженерно-строительный институт</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/institut-fiziki-nanotekhnologiy-i-telekommunikatsiy/" class="">Институт  физики, нанотехнологий и телекоммуникаций</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/institut_voenno_tekhnicheskogo_obrazovaniya_i_bezopasnosti/" class="">Институт военно-технического образования и безопасности</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/institute_open_further_education/" class="">Институт дополнительного образования</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/institut_computernikh_nauk_i_tekhnologiy/" class="">Институт компьютерных наук и технологий</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/institut_metallurgii_mashinostroeniya_i_transporta/" class="">Институт металлургии, машиностроения и транспорта</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/institute_advanced_manufacturing_technologies/" class="">Институт передовых производственных технологий</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/institut_prikladnoy_matematiki_i_mekhaniki/" class="">Институт прикладной математики и механики</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/institut_fizicheskoy_kultury_sporta_i_turizma/" class="">Институт физической культуры, спорта и туризма</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/institut_energetiki_i_transportnykh_sistem/" class="">Институт энергетики и транспортных систем</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/fakultet_voennogo_obucheniya/" class="">Факультет военного обучения</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/imet/" class="">Институт промышленного менеджмента, экономики и торговли</a></li>
+					</ul></div></div>						<div class="col-md-12">
+                  <div class="mega-inner">
+                    <div class="h2">Высшие школы</div>
+							<ul>
+																				<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/vsbtipt/" class="">Высшая  школа биотехнологии и пищевых  технологий</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/graduate-school-international-educational-programs/" class="">Высшая школа международных образовательных программ</a></li>
+					</ul></div></div>						<div class="col-md-12">
+                  <div class="mega-inner">
+                    <div class="h2">Колледж, лицей</div>
+							<ul>
+																				<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/estestvenno_nauchnyy_litsey/" class="">Естественно-научный лицей</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/radiopolitekhnikum/" class="">Университетский политехнический колледж</a></li>
+					</ul></div></div>						<div class="col-md-12">
+                  <div class="mega-inner">
+                    <div class="h2">Филиал</div>
+							<ul>
+																				<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/institut_yadernoy_energetiki/" class="">Институт ядерной энергетики (филиал  ФГАОУ ВО "СПбПУ")  г. Сосновый Бор</a></li>
+					</ul></div></div>						<div class="col-md-12">
+                  <div class="mega-inner">
+                    <div class="h2">Центры дополнительного образования и переподготовки</div>
+							<ul>
+																				<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/higher_engineering_school/" class="">Высшая инженерная школа</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/higher-school-management-finance/" class="">Высшая школа промышленного менеджмента и экономики ИПМЭиТ</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/center_financial_monitoring/" class="">Международный научно-образовательный центр  финансового мониторинга</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/mipk/" class="">Межотраслевой институт повышения квалификации</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/rec_engineering_pedagogy/" class="">Научно-образовательный центр "Инженерная педагогика"</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/center_information_security/" class="">Научно-образовательный центр «Информационная безопасность» </a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/regional-center-occupational-safety/" class="">Региональный центр безопасности труда</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/ppp/" class="">Северо-Западный научно-образовательный центр в сфере государственно-частного партнерства</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/center-continuing-education/" class="">Центр дополнительного образования</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/stroikursi/" class="">Центр дополнительных профессиональных программ Инженерно-строительного института</a></li>
+					</ul></div></div>		</div></div>
+</li>
+			<!-- меню подразделений -->
+             <li class="polytech-mega-menu-trigger">
+	<a href="javascript:void(0)" class="has-sub-menu">Подразделения</a>
+    <div class="polytech-mega-menu sub-menu"><div class="inner-mega-menu">
+						<div class="col-md-12">
+                  <div class="mega-inner">
+                    <div class="h2">Административные подразделения</div>
+							<ul>
+																				<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/rektorat/">Ректорат</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/accounting_office/">Управление бухгалтерского учета (УБУ)</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/department_economics/">Планово-финансовое управление</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/upravlenie_personala/">Управление персонала</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/sluzhba_audita_finansovogo_kontrolya_i_ekonomicheskoy_bezopasnosti/">Служба аудита, финансового контроля и экономической безопасности</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/management-convention-exhibition-activities/">Дирекция конгрессно-выставочной деятельности</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/kontraktnaya_sluzhba/">Контрактная служба</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/otdel_information_technology/">Отдел информационных технологий</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/department-mobilization-preparation/">Отдел мобилизационной подготовки</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/administrative_department/">Управление делами</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/division_legal_support/">Управление правового обеспечения</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/monitoring-center-science-education/">Центр мониторинга науки и образования</a></li>
+					</ul></div></div>						<div class="col-md-12">
+                  <div class="mega-inner">
+                    <div class="h2">Научная деятельность</div>
+							<ul>
+																				<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/onti/">Объединенный научно-технологический институт</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/technopark/">Технопарк "Политехнический" (Технопарк)</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/otdelenie-tsentr-perspektivnykh-issledovaniy/">Отделение "Центр перспективных исследований"</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/upni/">Управление периодических научных изданий</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/dom_uchenykh_v_lesnom/">Дом Ученых в Лесном</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/inzhiniringovyy_tsentr_quot_tsentr_kompyuternogo_inzhiniringa_quot/">Инжиниринговый центр " Центр компьютерного инжиниринга"</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/nauchno-issledovatelskiy-kompleks-nanobiotekhnologii/">Научно-исследовательский комплекс "Нанобиотехнологии"</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/sector-councils-doctoral-dissertations/">Сектор диссертационных советов и докторантуры</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/nts/">Сектор научно-технического совета</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/management-scientific-organizational-activities/">Управление научно-организационной деятельности</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/untdm/">Управление научно-технической деятельности молодежи</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/dsrd/">Управление научных исследований и разработок</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/tsentr_quot_promyshlennaya_rentgenovskaya_tomografiya_quot/">Центр  "Промышленная рентгеновская томография"</a></li>
+					</ul></div></div>						<div class="col-md-12">
+                  <div class="mega-inner">
+                    <div class="h2">Образовательная деятельность</div>
+							<ul>
+																				<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/departament_molodezhnogo_tvorchestva_i_kulturnykh_programm/">Дирекция культурных программ и молодежного творчества</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/management-basic-educational-programs/">Дирекция основных образовательных программ</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/informatsionno_bibliotechnyy_kompleks/">Информационно-библиотечный комплекс</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/educational-scientific-center-spbpu-festo-synergy/">Северо-Западный межвузовский региональный учебно-научный центр   СПбПУ-ФЕСТО «Синергия»</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/network_university/">Сетевой университет в сфере промышленной, ядерной и энергетической безопасности</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/open-education-center/">Центр открытого образования</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/career_center_pre-university_training/">Центр профориентации и довузовской подготовки</a></li>
+					</ul></div></div>						<div class="col-md-12">
+                  <div class="mega-inner">
+                    <div class="h2">Международная деятельность</div>
+							<ul>
+																				<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/resursnyy_tsentr_mezhdunarodnoy_deyatelnosti/">Ресурсный центр  международной  деятельности</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/upravlenie_mezhdunarodnogo_obrazovaniya/">Управление  международного образования</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/upravlenie_mezhdunarodnogo_sotrudnichestva/">Управление  международного сотрудничества</a></li>
+					</ul></div></div>						<div class="col-md-12">
+                  <div class="mega-inner">
+                    <div class="h2">Перспективные проекты</div>
+							<ul>
+																				<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/informatsionno-analiticheskiy-forsayt-tsentr-iafts/">Информационно-аналитический форсайт-центр</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/teaching_union_universities_russia/">Научно-методический центр Координационного совета федеральных учебно-методических объединений по области образования «Инженерное дело»</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/project_office_5-100/">Проектный офис Программы повышения конкурентоспособности ФГАОУ ВО "СПбПУ" среди ведущих мировых научно-образовательных центров</a></li>
+					</ul></div></div>						<div class="col-md-12">
+                  <div class="mega-inner">
+                    <div class="h2">Информационно-ресурсное обеспечение</div>
+							<ul>
+																				<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/scc/">Управление "СКЦ"</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/mkis/">Управление вычислительных и информационных сервисов</a></li>
+					</ul></div></div>						<div class="col-md-12">
+                  <div class="mega-inner">
+                    <div class="h2">Административно-хозяйственное обеспечение</div>
+							<ul>
+																				<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/departament_administrativno_khozyaystvennykh_sluzhb/">Департамент административно-хозяйственных служб</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/departament_glavnogo_inzhenera/">Департамент главного инженера</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/departament_remontno_vosstanovitelnykh_rabot/">Департамент ремонтно-восстановительных работ</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/departament_sotsialnykh_programm/">Департамент социальных программ</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/proizvodstvennoe_upravlenie/">Производственное управление</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/energy-council/">Энергетический совет</a></li>
+					</ul></div></div>						<div class="col-md-12">
+                  <div class="mega-inner">
+                    <div class="h2">Связи с общественностью и информационно-коммуникационная деятельность</div>
+							<ul>
+																				<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/departament_corporate_public_relations/">Управления корпоративных общественных связей</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/media_tsentr_spbpu/">Медиа-центр СПбПУ</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/museum_complex/">Музейный комплекс</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/newspaper_Polytechnic/">Редакция газеты "Политехник"</a></li>
+					</ul></div></div>						<div class="col-md-12">
+                  <div class="mega-inner">
+                    <div class="h2">Безопасность</div>
+							<ul>
+																				<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/departament_okhrany/">Департамент охраны</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/departament_rezhima_bezopasnosti/">Департамент режима и безопасности</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/mezhdunarodnyy_tsentr_sodeystviya_realizatsii_programm_i_proektov_yunido/">Международный центр содействия реализации программ и проектов ЮНИДО</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/otdel_zashchity_konfidentsiialnoy_informatsii/">Отдел защиты конфиденциальной информации</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/civil_security_management/">Управление гражданской безопасности</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/training_center_integrated_security/">Учебно-методический центр  комплексной безопасности</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/tsentr_upravleniya_bezopasnostyu_inostrannykh_grazhdan/">Центр управления безопасностью  иностранных граждан</a></li>
+															<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/ekspertno_metodicheskiy_tsentr_v_sfere_oboronno_promyshlennogo_kompleksa_i_vysokikh_tekhnologiy/">Экспертно-методический центр в сфере оборонно-промышленного комплекса и высоких технологий</a></li>
+					</ul></div></div>						<div class="col-md-12">
+                  <div class="mega-inner">
+                    <div class="h2">Студгородок СПбПУ</div>
+							<ul>
+																				<li class="col-md-4 institution-item"><a href="http://www.spbstu.ru/structure/student_residencek_spbgpu/">Студенческий городок СПбПУ</a></li>
+					</ul></div></div>		</div></div>
+</li>
+          </ul>
+        </nav>
+        <a href="http://www.spbstu.ru/" class="poly_logo poly_logo_large">
+		<img src="./Дни СПбПУ в Испании_files/polytech_logo.svg" alt=""> </a>
+		<!-- верхнее меню (TOP MENU) -->
+		<nav class="navbar-right audience-menu" id="audienceMenu" role="navigation">
+    <ul class="nav nav-pills">
+						<li class="dropdown">
+				<a href="http://www.spbstu.ru/applicants/" class="dropdown-toggle" data-toggle="dropdown">
+					<span class="aud-name"> Абитуриенту</span>
+					<span class="caret-wrapper">
+						<span class="caret"></span>
+					</span>
+					<div class="clear"></div>
+				</a>
+							<ul class="dropdown-menu" role="menu">
+																				<li><a href="http://www.spbstu.ru/abit/bachelor/" class="">Поступление 2017</a></li>
+															<li><a href="http://www.spbstu.ru/applicants/admissions/" class="">Приемная комиссия</a></li>
+															<li><a href="http://www.spbstu.ru/applicants/welcome-to-the-university/" class="">Информация по приему</a></li>
+															<li><a href="http://www.spbstu.ru/education/students/paid-educational-services/" class="">Платные образовательные услуги</a></li>
+															<li><a href="http://www.spbstu.ru/applicants/admission-of-foreign-citizens/" class="">Поступление иностранных граждан</a></li>
+															<li><a href="http://www.spbstu.ru/applicants/open-days/" class="">Дни открытых дверей</a></li>
+															<li><a href="http://www.spbstu.ru/applicants/olympiad/" class="">Олимпиады школьников</a></li>
+															<li><a href="http://www.spbstu.ru/applicants/pre-university-training/" class="">Довузовская подготовка</a></li>
+															<li><a href="http://www.spbstu.ru/virt_polytech/" class="">Виртуальный тур по СПбПУ</a></li>
+															<li><a href="http://www.spbstu.ru/students/hostel/" class="">Общежития</a></li>
+															<li><a href="http://www.spbstu.ru/faq/applicants/" class="">Вопрос-ответ</a></li>
+					</ul></li>						<li class="dropdown">
+				<a href="http://www.spbstu.ru/students/" class="dropdown-toggle" data-toggle="dropdown">
+					<span class="aud-name"> Студентам</span>
+					<span class="caret-wrapper">
+						<span class="caret"></span>
+					</span>
+					<div class="clear"></div>
+				</a>
+							<ul class="dropdown-menu" role="menu">
+																				<li><a href="http://www.spbstu.ru/students/schedule/" class="">Расписание</a></li>
+															<li><a href="http://open.spbstu.ru/project/lichnyj-kabinet/" class="" target="_blank">Личный кабинет</a></li>
+															<li><a href="http://www.spbstu.ru/students/enquiry/" class="">Справки студентам</a></li>
+															<li><a href="http://www.spbstu.ru/students/social-security/" class="">Социальное обеспечение</a></li>
+															<li><a href="http://www.spbstu.ru/students/foreign-student/" class="">Иностранному студенту</a></li>
+															<li><a href="http://www.spbstu.ru/students/additional-education/" class="">Дополнительное образование</a></li>
+															<li><a href="http://open.spbstu.ru/" class="" target="_blank">Информационная образовательная среда</a></li>
+															<li><a href="http://www.spbstu.ru/education/students/paid-educational-services/" class="">Платные образовательные услуги</a></li>
+															<li><a href="http://www.spbstu.ru/students/study-abroad/" class="">Обучение за рубежом</a></li>
+															<li><a href="http://www.spbstu.ru/students/information-and-library-complex/" class="">Информационно-библиотечный комплекс</a></li>
+															<li><a href="http://www.spbstu.ru/students/employment/" class="">Трудоустройство</a></li>
+															<li><a href="http://www.spbstu.ru/faq/students/" class="">Вопрос-ответ</a></li>
+															<li><a href="http://fablab.spbstu.ru/" class="" target="_blank">Наука и техническое творчество</a></li>
+															<li><a href="http://www.spbstu.ru/students/university-program/" class="">Университетские программы</a></li>
+															<li><a href="http://www.spbstu.ru/students/student-association/" class="">Студенческие объединения</a></li>
+															<li><a href="http://www.spbstu.ru/students/administrative-office/" class="">Административно-хозяйственные службы</a></li>
+					</ul></li>						<li class="dropdown">
+				<a href="http://www.spbstu.ru/graduate-students/" class="dropdown-toggle" data-toggle="dropdown">
+					<span class="aud-name"> Аспирантам</span>
+					<span class="caret-wrapper">
+						<span class="caret"></span>
+					</span>
+					<div class="clear"></div>
+				</a>
+							<ul class="dropdown-menu" role="menu">
+																				<li><a href="http://www.spbstu.ru/education/management-structure/postgraduate/" class="">Аспирантура</a></li>
+															<li><a href="http://www.spbstu.ru/graduate-students/admission-information/" class="">Информация по приёму</a></li>
+															<li><a href="http://www.spbstu.ru/education/management-structure/postgraduate/the-learning-process/" class="">Расписание занятий</a></li>
+															<li><a href="http://portasp.spbstu.ru/" class="" target="_blank">Портфолио аспиранта</a></li>
+															<li><a href="http://www.spbstu.ru/graduate-students/scholarship/" class="">Стипендии аспирантам</a></li>
+															<li><a href="http://www.spbstu.ru/science/the-department-of-postgraduate-and-doctoral-studies/doctorate/" class="">Докторантура</a></li>
+															<li><a href="http://www.spbstu.ru/science/the-department-of-postgraduate-and-doctoral-studies/dissertation-councils/" class="">Диссертационные советы</a></li>
+															<li><a href="http://www.spbstu.ru/science/the-department-of-doctoral-studies/defences-calendar/" class="">Календарь защит</a></li>
+															<li><a href="http://www.spbstu.ru/education/students/paid-educational-services/" class="">Платные образовательные услуги</a></li>
+															<li><a href="http://www.spbstu.ru/structure/informatsionno_bibliotechnyy_kompleks/" class="">Информационно-библиотечный комплекс</a></li>
+															<li><a href="http://www.spbstu.ru/media/edition/" class="">Научные издания</a></li>
+															<li><a href="http://www.spbstu.ru/faq/graduate-students/" class="">Вопрос-ответ</a></li>
+					</ul></li>						<li class="dropdown">
+				<a href="http://www.spbstu.ru/graduates/" class="dropdown-toggle" data-toggle="dropdown">
+					<span class="aud-name"> Выпускникам</span>
+					<span class="caret-wrapper">
+						<span class="caret"></span>
+					</span>
+					<div class="clear"></div>
+				</a>
+							<ul class="dropdown-menu" role="menu">
+																				<li><a href="http://www.spbstu.ru/students/employment/" class="">Отдел практики и трудоустройства</a></li>
+															<li><a href="http://www.spbstu.ru/graduates/schedule-diplomas/" class="">График проведения вручения дипломов </a></li>
+															<li><a href="http://www.spbstu.ru/graduates/diplomas-and-certificates/" class="">Дипломы и свидетельства</a></li>
+															<li><a href="http://www.spbstu.ru/graduates/diplom-spbspu-abroad/" class="">Диплом СПбПУ за рубежом</a></li>
+															<li><a href="http://www.spbstu.ru/graduates/badge-graduate/" class="">Нагрудный знак  выпускника</a></li>
+															<li><a href="http://www.spbstu.ru/graduates/issuance-duplicate-diplomas/" class="">Выдача дубликатов дипломов</a></li>
+															<li><a href="http://www.alumni.spbstu.ru/" class="" target="_blank"> Центр по работе с выпускниками СПбПУ</a></li>
+															<li><a href="https://endowment.spbstu.ru/" class="" target="_blank">Эндаумент фонд</a></li>
+															<li><a href="http://www.politechspb.ru/" class="">Ассоциация выпускников</a></li>
+															<li><a href="http://www.spbstu.ru/graduates/best-graduates/" class="">"Золотые" выпускники</a></li>
+					</ul></li>						<li class="dropdown">
+				<a href="http://www.spbstu.ru/employees/" class="dropdown-toggle" data-toggle="dropdown">
+					<span class="aud-name"> Сотрудникам</span>
+					<span class="caret-wrapper">
+						<span class="caret"></span>
+					</span>
+					<div class="clear"></div>
+				</a>
+							<ul class="dropdown-menu" role="menu">
+																				<li><a href="http://ruz.spbstu.ru/#/teachers" class="">Расписание занятий</a></li>
+															<li><a href="https://staff.spbstu.ru/" class="" target="_blank">Личный кабинет</a></li>
+															<li><a href="http://www.spbstu.ru/university/organizational-documents/administration-catalogue/" class=""> Административный каталог</a></li>
+															<li><a href="http://www.spbstu.ru/structure/upravlenie_personala/" class="">Управление персонала</a></li>
+															<li><a href="http://www.spbstu.ru/structure/upravlenie_materialno_tekhnicheskogo_obespecheniya/" class="">Материально-техническое обеспечение</a></li>
+															<li><a href="http://www.spbstu.ru/university/organizational-documents/corporate-identity/" class="">Руководство по фирменному стилю</a></li>
+															<li><a href="http://www.spbstu.ru/employees/professional-skill-improvement/" class="">Повышение квалификации</a></li>
+															<li><a href="http://www.spbstu.ru/employees/it" class="">ИТ-Сервисы</a></li>
+															<li><a href="http://www.spbstu.ru/employees/the-trade-union/" class="">Профком</a></li>
+															<li><a href="http://www.spbstu.ru/structure/informatsionno_bibliotechnyy_kompleks/" class="">Информационно-библиотечный комплекс</a></li>
+															<li><a href="http://www.spbstu.ru/faq/employees/" class="">Вопрос-ответ</a></li>
+					</ul></li>						<li class="dropdown">
+				<a href="http://www.spbstu.ru/partners/" class="dropdown-toggle" data-toggle="dropdown">
+					<span class="aud-name"> Партнерам</span>
+					<span class="caret-wrapper">
+						<span class="caret"></span>
+					</span>
+					<div class="clear"></div>
+				</a>
+							<ul class="dropdown-menu" role="menu">
+																				<li><a href="https://endowment.spbstu.ru/" class="">Эндаумент фонд</a></li>
+															<li><a href="http://www.spbstu.ru/partners/our-partners/" class="">Наши партнеры</a></li>
+															<li><a href="http://www.spbstu.ru/faq/partners/" class="">Вопрос-ответ</a></li>
+															<li><a href="http://www.spbstu.ru/partners/materials-for-partners/" class="">Материалы для партнеров</a></li>
+					</ul></li>		</ul>
+</nav>
+      </div>
+    </div>
+    <!-- / Конец навигации по структуре --> 
+    <!-- Main navigation -->
+    <div class="color-for-menu">
+    <div class="container-fluid uniPanel">
+      <div class="col-md-12"><nav class="uni-menu linen " id="uniMenu" role="navigation">
+        <ul class="nav navbar-nav nav-polytech-justified mega-list">
+									<li class="polytech-mega-menu-trigger">
+				<a href="http://www.spbstu.ru/university/" class="has-sub-menu">Университет</a>
+				<div class="polytech-mega-menu sub-menu"><div class="inner-mega-menu">						
+						
+													
+						
+								
+						
+							<div class="col-md-3">
+                  <div class="mega-inner">
+                    <div class="h2">Об университете</div>
+                    <ul>
+													
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/university/about-the-university/welcome-to-the-rector/" class="">Приветствие ректора</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/university/about-the-university/mission-and-values/" class="">Миссия и ценности</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/structure/" class="">Структура университета</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/sveden" class="">Сведения об образовательной организации</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/university/about-the-university/history/" class="">История</a></li>
+										
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/university/about-the-university/personalities/" class="">Персоналии</a></li>
+										
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/university/about-the-university/staff/" class="">Профессорско-преподавательский состав</a></li>
+												</ul>
+                  </div>
+                </div>
+						
+						
+								
+						
+							<div class="col-md-3">
+                  <div class="mega-inner">
+                    <div class="h2">Администрация</div>
+                    <ul>
+													
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/university/administration/the-supervisory-board/" class="">Наблюдательный совет</a></li>
+										
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/university/administration/the-scientific-council/" class="">Ученый совет</a></li>
+										
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/university/administration/leaders/" class="">Руководители</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/university/administration/the-board-of-trustees/" class="">Попечительский совет</a></li>
+												</ul>
+                  </div>
+                </div>
+						
+						
+								
+						
+							<div class="col-md-3">
+                  <div class="mega-inner">
+                    <div class="h2">Стратегия развития</div>
+                    <ul>
+													
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/university/strategy-development/improving-competitiveness-5-100/" class="">Проект повышения конкурентоспособности 5-100</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/university/strategy-development/the-development-of-the-national-research-university-nru/" class="">Развитие национального исследовательского университета (НИУ)</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/university/strategy-development/the-university-in-numbers/" class="">Университет в цифрах</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/university/strategy-development/strategic-partners/" class="">Стратегические партнеры</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/university/strategy-development/program-development-student-unions/" class=""> Программа развития деятельности студенческих объединений</a></li>
+												</ul>
+                  </div>
+                </div>
+						
+						
+								
+						
+							<div class="col-md-3">
+                  <div class="mega-inner">
+                    <div class="h2">Организационные документы</div>
+                    <ul>
+													
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/university/organizational-documents/administration-catalogue/" class="">Административный каталог</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/university/organizational-documents/license-and-accreditation/" class="">Лицензия и аккредитация</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/university/organizational-documents/charter/" class="">Устав</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/university/organizational-documents/collective-agreement/" class="">Коллективный договор</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/university/organizational-documents/self-assessment-reports/" class="">Документы по самообследованию</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/university/organizational-documents/financial-and-economic-documents/" class="">Финансово-экономические документы</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/university/organizational-documents/corporate-identity/" class="">Руководство по фирменному стилю</a></li>
+												</ul>
+                  </div>
+                </div>
+						
+							</div></div>				</li>
+						
+									<li class="polytech-mega-menu-trigger">
+				<a href="http://www.spbstu.ru/education/" class="has-sub-menu">Образование</a>
+				<div class="polytech-mega-menu sub-menu"><div class="inner-mega-menu">					<div class="mega-inner">
+										<div class="col-md-12">
+						
+					  
+							<a class="external-link" href="http://open.spbstu.ru/" target="_blank" title="Электронная образовательная среда «Открытый Политех» СПбПУ"><i class="fa  fa-fw fa-desktop"></i> Электронная образовательная среда «Открытый Политех» <i class="fa fa-share"></i></a>
+					   
+						
+					</div>
+										<div class="col-md-12">
+										
+						
+													
+						
+								
+						
+							<div class="col-md-3">
+                  <div class="mega-inner">
+                    <div class="h2">Общая информация</div>
+                    <ul>
+													
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/education/general-information/educational-activities/" class="">Образовательная деятельность</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/education/general-information/specializations/" class="">Направления и специальности</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/education/general-information/international-educational-programs/" class="">Международные образовательные программы</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/media/announcements/competitions_grants/" class="">Олимпиады, конкурсы, гранты</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/education/general-information/regulations/" class="">Нормативные документы</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/students/additional-education/" class="">Дополнительное образование</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/education/general-information/authorized-centres/" class="">Авторизованные центры</a></li>
+												</ul>
+                  </div>
+                </div>
+						
+						
+								
+						
+							<div class="col-md-3">
+                  <div class="mega-inner">
+                    <div class="h2">Структура управления</div>
+                    <ul>
+													
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/education/management-structure/organizational-management-scheme/" class="">Организационная схема управления</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/education/management-structure/educational-methodical-council/" class="">Учебно-методический совет</a></li>
+										
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/education/management-structure/postgraduate/" class=""> Аспирантура</a></li>
+										
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/education/management-structure/institutions/" class="">Институты</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/education/management-structure/branches/" class="">Филиалы</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/structure/radiopolitekhnikum/" class="">Колледж</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/structure/estestvenno_nauchnyy_litsey/" class="">Лицей</a></li>
+												</ul>
+                  </div>
+                </div>
+						
+						
+								
+						
+							<div class="col-md-3">
+                  <div class="mega-inner">
+                    <div class="h2">Обучающимся</div>
+                    <ul>
+													
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/education/students/description-of-educational-programs/" class="">Описание реализуемых образовательных программ</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/education/students/logistical-support-and-equipment-of-the-educational-process/" class="">Материально-техническое обеспечение и оснащенность образовательного процесса</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/education/students/vacant-seats-for-admission/" class="">Вакантные места для приема (перевода)</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/education/students/the-restoration-and-translation/" class="">Восстановление и перевод</a></li>
+										
+						
+								
+						
+												<li><a href="http://open.spbstu.ru/" class="" target="_blank">Высшее образование дистанционно</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/education/students/paid-educational-services/" class="">Платные образовательные услуги</a></li>
+										
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+															</ul>
+                  </div>
+                </div>
+						
+							</div></div></div></div>				</li>
+						
+									<li class="polytech-mega-menu-trigger">
+				<a href="http://www.spbstu.ru/science/" class="has-sub-menu">Наука</a>
+				<div class="polytech-mega-menu sub-menu"><div class="inner-mega-menu">					<div class="mega-inner">
+										<div class="col-md-12">
+						
+					  
+							<a class="external-link" href="http://science.spbstu.ru/" target="_blank" title="Перейти на страницу Научного портала СПбПУ"><img src="./Дни СПбПУ в Испании_files/genius.svg" alt=""> Научный портал СПбПУ <i class="fa fa-share"></i></a>
+					   
+						
+					</div>
+										<div class="col-md-12">
+										
+						
+													
+						
+								
+						
+							<div class="col-md-3">
+                  <div class="mega-inner">
+                    <div class="h2">Общая информация</div>
+                    <ul>
+													
+						
+								
+						
+												<li><a href="http://research.spbstu.ru/" class="" target="_blank">Наука в Политехническом</a></li>
+										
+						
+								
+						
+												<li><a href="http://research.spbstu.ru/pokazateli_rezultativnosti_nir/" class="" target="_blank">Показатели результативности НИР</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/science/general-information/scientific-technical-council/" class="">Научно-технический совет</a></li>
+										
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/science/general-information/projects-federal-program/" class="">Проекты по ФЦП</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/media/announcements/competitions_grants/" class="">Конкурсы и гранты</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/science/general-information/conference/" class="">Конференции, семинары</a></li>
+										
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+															</ul>
+                  </div>
+                </div>
+						
+						
+								
+						
+							<div class="col-md-3">
+                  <div class="mega-inner">
+                    <div class="h2">Структура научной части</div>
+                    <ul>
+													
+						
+								
+						
+												<li><a href="http://research.spbstu.ru/labs/" class="" target="_blank">Лаборатории</a></li>
+										
+						
+								
+						
+												<li><a href="http://onti.spbstu.ru/public/" class="" target="_blank">Объединенный научно-технологический институт</a></li>
+										
+						
+								
+						
+												<li><a href="http://research.spbstu.ru/department/centr_perspektivnuh_issledovaniy/" class="" target="_blank">Центр перспективных исследований</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/structure/technopark/" class="" target="_blank">Технопарк "Политехнический"</a></li>
+										
+						
+								
+						
+												<li><a href="http://research.spbstu.ru/department/upravlenie_nauchno_organizacionnoy_deyatelnosti/" class="">Управление научно-организационной деятельности</a></li>
+												</ul>
+                  </div>
+                </div>
+						
+						
+								
+						
+							<div class="col-md-3">
+                  <div class="mega-inner">
+                    <div class="h2">Студентам</div>
+                    <ul>
+													
+						
+								
+						
+												<li><a href="http://research.spbstu.ru/department/untdm/" class="" target="_blank">Отдел развития научной деятельности студентов и молодых ученых</a></li>
+										
+						
+								
+						
+												<li><a href="http://week-science.spbstu.ru/" class="" target="_blank">Неделя Науки</a></li>
+										
+						
+								
+						
+												<li><a href="http://research.spbstu.ru/smus/" class="" target="_blank">СМУС</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/science/students/research-education-centers/" class="">Научно-образовательные центры</a></li>
+										
+						
+								
+						
+												<li><a href="http://fablab.spbstu.ru/" class="" target="_blank">Наука и техническое творчество</a></li>
+												</ul>
+                  </div>
+                </div>
+						
+						
+								
+						
+							<div class="col-md-3">
+                  <div class="mega-inner">
+                    <div class="h2">Сектор диссертационных советов и докторантуры</div>
+                    <ul>
+													
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/science/the-department-of-doctoral-studies/attachment/" class="">Прикрепление (соискательство)</a></li>
+										
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/science/the-department-of-doctoral-studies/doctorate/" class="">Докторантура</a></li>
+										
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/science/the-department-of-doctoral-studies/dissertation-councils/" class="">Диссертационные советы</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/science/the-department-of-doctoral-studies/defences-calendar/" class="">Календарь защит</a></li>
+												</ul>
+                  </div>
+                </div>
+						
+							</div></div></div></div>				</li>
+						
+									<li class="polytech-mega-menu-trigger">
+				<a href="http://www.spbstu.ru/culture/" class="has-sub-menu">Культура</a>
+				<div class="polytech-mega-menu sub-menu"><div class="inner-mega-menu">						
+						
+													
+						
+								
+						
+							<div class="col-md-3">
+                  <div class="mega-inner">
+                    <div class="h2">Культурная деятельность</div>
+                    <ul>
+													
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/culture/cultural-activities/council-culture/" class="">Совет по культуре</a></li>
+										
+						
+								
+						
+												<li><a href="http://whitehall.spbstu.ru/" class="">Белый зал</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/culture/cultural-activities/assembly-halls/" class="">Актовые залы</a></li>
+										
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/culture/cultural-activities/the-house-of-scientists-in-forest/" class="">Дом ученых в Лесном</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/culture/cultural-activities/educational-and-historical-reserve-the-estate-of-prince-a-i-gagarin-holomci/" class="">Учебно-исторический заповедник «Усадьба князя А.Г. Гагарина «Холомки»</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/culture/cultural-activities/museums-spbpu/" class="">Музеи СПбПУ</a></li>
+										
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/culture/cultural-activities/the-room-glory/" class="">Комната Боевой Славы</a></li>
+												</ul>
+                  </div>
+                </div>
+						
+						
+								
+						
+							<div class="col-md-3">
+                  <div class="mega-inner">
+                    <div class="h2">Культурно-образовательные программы</div>
+                    <ul>
+													
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/culture/cultural-and-educational-programs/creative-semesters/" class="">Творческие семестры в Политехническом</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/culture/cultural-and-educational-programs/musical-semesters/" class="">Музыкальные семестры</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/culture/cultural-and-educational-programs/literary-terms/" class="">Литературные семестры</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/culture/cultural-and-educational-programs/historical-and-philosophical-semesters/" class="">Историко-философские семестры</a></li>
+												</ul>
+                  </div>
+                </div>
+						
+						
+								
+						
+							<div class="col-md-3">
+                  <div class="mega-inner">
+                    <div class="h2">Культурно-просветительские проекты</div>
+                    <ul>
+													
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/culture/cultural-and-educational-projects/festival-pushkin-days-at-the-polytechnic/" class="">Фестиваль «Пушкинские дни в Политехническом»</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/culture/cultural-and-educational-projects/easter-festival-in-polytechnic/" class="">«Пасхальный фестиваль» в Политехническом</a></li>
+										
+						
+								
+						
+												<li><a href="http://blagovest-fest.ru/" class="">Хоровой конкурс технических вузов России «Благовест»</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/culture/cultural-and-educational-projects/festival-golden-autumn/" class="">Фестиваль «Золотая осень»</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/culture/cultural-and-educational-projects/children-s-concerts-musical-miracles" class="">Детские концерты «Музыкальные чудеса»</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/culture/cultural-and-educational-projects/intercollegiate-youth-festival-friendship-peoples/" class="">Межвузовский Молодежный Фестиваль Дружбы Народов</a></li>
+												</ul>
+                  </div>
+                </div>
+						
+						
+								
+						
+							<div class="col-md-3">
+                  <div class="mega-inner">
+                    <div class="h2">Творческие коллективы</div>
+                    <ul>
+													
+						
+								
+						
+												<li><a href="http://radio.spbstu.ru/" class="">Радио Политеха «P.fm»</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/culture/creative-team/theater-groups/" class="">Театральные коллективы</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/culture/creative-team/musical-groups/" class="">Музыкальные коллективы</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/culture/creative-team/dance-groups/" class="">Танцевальные коллективы</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/culture/creative-team/art-media" class="">Арт-медиа</a></li>
+												</ul>
+                  </div>
+                </div>
+						
+							</div></div>				</li>
+						
+									<li class="polytech-mega-menu-trigger">
+				<a href="http://www.spbstu.ru/international-cooperation/" class="has-sub-menu">Международное сотрудничество</a>
+				<div class="polytech-mega-menu sub-menu"><div class="inner-mega-menu">						
+						
+													
+						
+								
+						
+							<div class="col-md-3">
+                  <div class="mega-inner">
+                    <div class="h2">Общая информация</div>
+                    <ul>
+													
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/international-cooperation/general-information/international-activity-in-figure/" class="">Международная деятельность в цифрах</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/international-cooperation/general-information/international-services/" class="">Международные службы</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/structure/resursnyy_tsentr_mezhdunarodnoy_deyatelnosti/" class="">Ресурсный центр международной деятельности</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/structure/%D1%81enter_expertise_foreign_documents_education/" class="">Центр экспертизы иностранных документов об образовании</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/structure/otdel_priema_komandirovaniya/" class="">Приём и командирование</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/international-cooperation/general-information/documents/" class="">Документы</a></li>
+												</ul>
+                  </div>
+                </div>
+						
+						
+								
+						
+							<div class="col-md-3">
+                  <div class="mega-inner">
+                    <div class="h2">Международные образовательные программы</div>
+                    <ul>
+													
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/international-cooperation/international-educational-programs/the-international-baccalaureate-program/" class="">Международные программы бакалавриата</a></li>
+										
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/international-cooperation/international-educational-programs/international-graduate-programs/" class="">Международные программы магистратуры</a></li>
+										
+						
+								
+						
+													
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/international-cooperation/international-educational-programs/dual-degree-programs/" class="">Программы двойного диплома</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/international-cooperation/international-educational-programs/international-programs-of-additional-education/" class="">Международные программы дополнительного образования</a></li>
+										
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/international-cooperation/international-educational-programs/summer-school/" class="">Летние школы</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/international-cooperation/international-educational-programs/grants-and-scholarships/" class="">Гранты и стипендии</a></li>
+										
+						
+								
+						
+													
+						
+								
+						
+															</ul>
+                  </div>
+                </div>
+						
+						
+								
+						
+							<div class="col-md-3">
+                  <div class="mega-inner">
+                    <div class="h2">Международная деятельность</div>
+                    <ul>
+													
+						
+								
+						
+												<li><a href="http://ro.spbstu.ru/" class="" target="_blank">Представительство СПбПУ в КНР г. Шанхай</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/international-cooperation/international-activities/map-partners/" class="">Зарубежные партнеры</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/international-cooperation/international-activities/international-networks-and-organizations/" class="">Международные сети и организации</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/international-cooperation/international-activities/academic-mobility/" class="">Академическая мобильность</a></li>
+										
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/international-cooperation/international-activities/international-project/" class="">Международные проекты</a></li>
+										
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/international-cooperation/international-activities/foreign-economic-activity/" class="">Внешнеэкономическая деятельность</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/international-cooperation/international-activities/the-isec/" class="">МНОЦ</a></li>
+										
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+															</ul>
+                  </div>
+                </div>
+						
+						
+								
+						
+							<div class="col-md-3">
+                  <div class="mega-inner">
+                    <div class="h2">Экспертный центр европейских исследований</div>
+                    <ul>
+													
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/international-cooperation/expert-center-international-cooperation/about/" class="">О центре</a></li>
+										
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/international-cooperation/expert-center-international-cooperation/europe-today/" class="">Европа сегодня</a></li>
+										
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/international-cooperation/expert-center-international-cooperation/education/" class="">Образование</a></li>
+										
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/international-cooperation/expert-center-international-cooperation/scientific-cooperation/" class="">Наука и технологии</a></li>
+										
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/international-cooperation/expert-center-international-cooperation/country-features/" class="">Страны</a></li>
+										
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+												<li><a href="http://www.spbstu.ru/international-cooperation/expert-center-international-cooperation/marketing-advertising-promotion/" class="">Маркетинг и продвижение</a></li>
+										
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+													
+						
+								
+						
+															</ul>
+                  </div>
+                </div>
+						
+							</div></div>				</li>
+						
+									<li class="">
+				<a href="http://www.spbstu.ru/media/" class="active has-sub-menu">Медиа</a>
+				<ul class="sub-menu">						
+						
+													
+						
+								
+							<li><a href="http://www.spbstu.ru/media/news/" class="">Новости</a></li>
+						
+													
+						
+								
+							<li><a href="http://www.spbstu.ru/media/announcements/" class="">Анонсы</a></li>
+						
+													
+						
+								
+							<li><a href="http://www.spbstu.ru/media/smi/" class="">СМИ</a></li>
+						
+													
+						
+								
+							<li><a href="http://www.spbstu.ru/media/student_news/" class="">Студенческие новости</a></li>
+						
+													
+						
+								
+							<li><a href="http://www.spbstu.ru/media/photo-gallery/" class="">Фото галерея</a></li>
+						
+													
+						
+								
+							<li><a href="http://www.spbstu.ru/media/video-gallery/" class="active">Видео галерея</a></li>
+						
+													
+						
+								
+							<li><a href="http://www.spbstu.ru/media/tv-gallery/" class=""><i class="p-icon icon-pi"></i> новости</a></li>
+						
+													
+						
+								
+							<li><a href="http://www.spbstu.ru/media/edition/" class="">Издания</a></li>
+						
+													
+							</ul>				</li>
+						
+				</ul>
+	</nav>
+			
+			
+      </div>
+    </div>
+    </div>
+  </header>
+<!-- header -->
+  
+  <!-- content -->
+  <main id="content">
+			<header class="page-header">
+		<div class="container">
+			<div class="row">
+			  <div class="col-md-12"><ol class="breadcrumb"><li><a href="http://www.spbstu.ru/"><i class="fa fa-university"></i></a></li><li><a href="http://www.spbstu.ru/media/" title="Медиа">Медиа</a></li><li><a href="http://www.spbstu.ru/media/video-gallery/" title="Видео галерея">Видео галерея</a></li><li><a href="http://www.spbstu.ru/media/video-gallery/international-activities/" title="Международная деятельность">Международная деятельность</a></li><li class="active">Дни СПбПУ в Испании</li></ol></div>
+			</div>
+		  </div>		</header>
+		  <section class="pt pb-medium"><div class="container"> 			<div class="row">
+			 <!-- page --> <!-- sidebar -->
+          <aside id="sidebar-right" class="col-sm-4 col-md-4 col-lg-3">
+			<section class="widget">
+    <div class="widget_title">Рубрики</div>
+    <nav class="tag-panel">
+		<ul class="media-tags-cat">
+			<li class="cat-all"><a href="http://www.spbstu.ru/media/video-gallery/" class="">Все рубрики</a></li>
+													<li class="cat-ach"><a class="" href="http://www.spbstu.ru/media/video-gallery/achievements/">Достижения</a></li>
+											<li class="cat-cult"><a class="" href="http://www.spbstu.ru/media/video-gallery/culture/">Культура</a></li>
+											<li class="cat-ach"><a class="" href="http://www.spbstu.ru/media/video-gallery/lectures/">Лекции</a></li>
+											<li class="cat-int"><a class="active" href="http://www.spbstu.ru/media/video-gallery/international-activities/">Международная деятельность</a></li>
+											<li class="cat-sci"><a class="" href="http://www.spbstu.ru/media/video-gallery/science-and-innovation/">Наука и инновации</a></li>
+											<li class="cat-edu"><a class="" href="http://www.spbstu.ru/media/video-gallery/education/">Образование</a></li>
+											<li class="cat-part"><a class="" href="http://www.spbstu.ru/media/video-gallery/partnership/">Партнерство</a></li>
+											<li class="cat-sport"><a class="" href="http://www.spbstu.ru/media/video-gallery/sports/">Спорт</a></li>
+											<li class="cat-stud"><a class="" href="http://www.spbstu.ru/media/video-gallery/student-life/">Студенческая жизнь</a></li>
+							</ul>
+	</nav>
+</section>	<section class="widget mt">
+    <div class="widget_title">Календарь событий</div>
+    <div id="calendarShort" class="ll-skin-cangas hasDatepicker">
+            
+    <div class="ui-datepicker-inline ui-datepicker ui-widget ui-widget-content ui-helper-clearfix ui-corner-all" style="display: block;"><div class="ui-datepicker-header ui-widget-header ui-helper-clearfix ui-corner-all"><a class="ui-datepicker-prev ui-corner-all" data-handler="prev" data-event="click" title="Пред."><span class="ui-icon ui-icon-circle-triangle-w">Пред.</span></a><a class="ui-datepicker-next ui-corner-all" data-handler="next" data-event="click" title="След."><span class="ui-icon ui-icon-circle-triangle-e">След.</span></a><div class="ui-datepicker-title"><span class="ui-datepicker-month">Май</span>&nbsp;<span class="ui-datepicker-year">2017</span></div></div><table class="ui-datepicker-calendar"><thead><tr><th scope="col"><span title="понедельник">пн</span></th><th scope="col"><span title="вторник">вт</span></th><th scope="col"><span title="среда">ср</span></th><th scope="col"><span title="четверг">чт</span></th><th scope="col"><span title="пятница">пт</span></th><th scope="col" class="ui-datepicker-week-end"><span title="суббота">сб</span></th><th scope="col" class="ui-datepicker-week-end"><span title="воскресенье">вс</span></th></tr></thead><tbody><tr><td class="active-day day-1 dropdown" data-handler="selectDay" data-event="click" data-month="4" data-year="2017" url="/media/announcements/conference/alumni-conference-educational-center-sirius/"><a class="ui-state-default dropdown-toggle" href="http://www.spbstu.ru/media/announcements/conference/alumni-conference-educational-center-sirius/" style="background: rgb(241, 111, 102); color: rgb(255, 255, 255);">1</a></td><td class=" ui-datepicker-unselectable ui-state-disabled "><span class="ui-state-default">2</span></td><td class=" ui-datepicker-unselectable ui-state-disabled "><span class="ui-state-default">3</span></td><td class=" ui-datepicker-unselectable ui-state-disabled "><span class="ui-state-default">4</span></td><td class=" ui-datepicker-unselectable ui-state-disabled "><span class="ui-state-default">5</span></td><td class=" ui-datepicker-week-end ui-datepicker-unselectable ui-state-disabled "><span class="ui-state-default">6</span></td><td class=" ui-datepicker-week-end ui-datepicker-unselectable ui-state-disabled "><span class="ui-state-default">7</span></td></tr><tr><td class=" ui-datepicker-unselectable ui-state-disabled "><span class="ui-state-default">8</span></td><td class=" ui-datepicker-unselectable ui-state-disabled "><span class="ui-state-default">9</span></td><td class="active-day day-10 dropdown" data-handler="selectDay" data-event="click" data-month="4" data-year="2017" url="/media/announcements/student-life/keeping-trees-saved-2017/"><a class="ui-state-default dropdown-toggle" href="http://www.spbstu.ru/media/announcements/student-life/keeping-trees-saved-2017/" style="background: rgb(255, 135, 88); color: rgb(255, 255, 255);">10</a></td><td class="active-day day-11 dropdown" data-handler="selectDay" data-event="click" data-month="4" data-year="2017" url="/media/announcements/education/civil-patriotic-forum-technologies-urban-activism/"><a class="ui-state-default dropdown-toggle" href="http://www.spbstu.ru/media/announcements/education/civil-patriotic-forum-technologies-urban-activism/" style="background: linear-gradient(rgb(241, 111, 102) 33.3333%, rgb(255, 135, 88) 33.3333%, rgb(255, 135, 88) 66.6667%, rgb(58, 197, 134) 66.6667%); color: rgb(255, 255, 255);">11</a></td><td class="active-day day-12 dropdown" data-handler="selectDay" data-event="click" data-month="4" data-year="2017" url="/media/announcements/conference/x-international-scientific-practical-conference-russia-xxi-century/"><a class="ui-state-default dropdown-toggle" href="http://www.spbstu.ru/media/announcements/conference/x-international-scientific-practical-conference-russia-xxi-century/" style="background: rgb(241, 111, 102); color: rgb(255, 255, 255);">12</a></td><td class="ui-datepicker-week-end active-day day-13 dropdown" data-handler="selectDay" data-event="click" data-month="4" data-year="2017" url="/media/announcements/conference/x-international-scientific-practical-conference-russia-xxi-century/"><a class="ui-state-default dropdown-toggle" href="http://www.spbstu.ru/media/announcements/conference/x-international-scientific-practical-conference-russia-xxi-century/" style="background: rgb(241, 111, 102); color: rgb(255, 255, 255);">13</a></td><td class=" ui-datepicker-week-end ui-datepicker-unselectable ui-state-disabled "><span class="ui-state-default">14</span></td></tr><tr><td class=" ui-datepicker-unselectable ui-state-disabled "><span class="ui-state-default">15</span></td><td class="active-day day-16 dropdown" data-handler="selectDay" data-event="click" data-month="4" data-year="2017" url="/media/announcements/conference/seminar-fundamental-problems-aerodynamics-16-05-17/"><a class="ui-state-default dropdown-toggle" href="http://www.spbstu.ru/media/announcements/conference/seminar-fundamental-problems-aerodynamics-16-05-17/" style="background: linear-gradient(rgb(255, 135, 88) 50%, rgb(241, 111, 102) 50%); color: rgb(255, 255, 255);">16</a></td><td class=" ui-datepicker-unselectable ui-state-disabled "><span class="ui-state-default">17</span></td><td class=" ui-datepicker-unselectable ui-state-disabled "><span class="ui-state-default">18</span></td><td class="active-day day-19 dropdown" data-handler="selectDay" data-event="click" data-month="4" data-year="2017" url="/media/announcements/competitions_grants/open-competition-grants-government-russian-federation/"><a class="ui-state-default dropdown-toggle" href="http://www.spbstu.ru/media/announcements/competitions_grants/open-competition-grants-government-russian-federation/" style="background: linear-gradient(rgb(118, 101, 146) 16.6667%, rgb(118, 101, 146) 16.6667%, rgb(118, 101, 146) 33.3333%, rgb(118, 101, 146) 33.3333%, rgb(118, 101, 146) 50%, rgb(118, 101, 146) 50%, rgb(118, 101, 146) 66.6667%, rgb(118, 101, 146) 66.6667%, rgb(118, 101, 146) 83.3333%, rgb(118, 101, 146) 83.3333%); color: rgb(255, 255, 255);">19</a></td><td class="ui-datepicker-week-end active-day day-20 dropdown" data-handler="selectDay" data-event="click" data-month="4" data-year="2017" url="/media/announcements/culture/museum-complex-of-pbspu-night-museums/"><a class="ui-state-default dropdown-toggle" href="http://www.spbstu.ru/media/announcements/culture/museum-complex-of-pbspu-night-museums/" style="background: linear-gradient(rgb(118, 101, 146) 33.3333%, rgb(58, 197, 134) 33.3333%, rgb(58, 197, 134) 66.6667%, rgb(140, 198, 87) 66.6667%); color: rgb(255, 255, 255);">20</a></td><td class=" ui-datepicker-week-end ui-datepicker-unselectable ui-state-disabled "><span class="ui-state-default">21</span></td></tr><tr><td class="active-day day-22 dropdown" data-handler="selectDay" data-event="click" data-month="4" data-year="2017" url="/media/announcements/education/lecture-harvard-university-professor-leonid-perlovskaya-spbspu/"><a class="ui-state-default dropdown-toggle" href="http://www.spbstu.ru/media/announcements/education/lecture-harvard-university-professor-leonid-perlovskaya-spbspu/" style="background: linear-gradient(rgb(241, 111, 102) 50%, rgb(58, 197, 134) 50%); color: rgb(255, 255, 255);">22</a></td><td class="active-day day-23 dropdown" data-handler="selectDay" data-event="click" data-month="4" data-year="2017" url="/media/announcements/competitions_grants/competition-grants-st-petersburg-scientific-scientific-technical-activity/"><a class="ui-state-default dropdown-toggle" href="http://www.spbstu.ru/media/announcements/competitions_grants/competition-grants-st-petersburg-scientific-scientific-technical-activity/" style="background: linear-gradient(rgb(241, 111, 102) 33.3333%, rgb(118, 101, 146) 33.3333%, rgb(118, 101, 146) 66.6667%, rgb(118, 101, 146) 66.6667%); color: rgb(255, 255, 255);">23</a></td><td class="active-day day-24 dropdown" data-handler="selectDay" data-event="click" data-month="4" data-year="2017" url="/media/announcements/education/international-education-fair-undergraduate-graduate-students/"><a class="ui-state-default dropdown-toggle" href="http://www.spbstu.ru/media/announcements/education/international-education-fair-undergraduate-graduate-students/" style="background: linear-gradient(rgb(241, 111, 102) 25%, rgb(241, 111, 102) 25%, rgb(241, 111, 102) 50%, rgb(241, 111, 102) 50%, rgb(241, 111, 102) 75%, rgb(58, 197, 134) 75%); color: rgb(255, 255, 255);">24</a></td><td class="active-day day-25 dropdown" data-handler="selectDay" data-event="click" data-month="4" data-year="2017" url="/media/announcements/international-activities/seminar-results-russian-programs-support-universities-rur/"><a class="ui-state-default dropdown-toggle" href="http://www.spbstu.ru/media/announcements/international-activities/seminar-results-russian-programs-support-universities-rur/" style="background: linear-gradient(rgb(241, 111, 102) 33.3333%, rgb(241, 111, 102) 33.3333%, rgb(241, 111, 102) 66.6667%, rgb(241, 111, 102) 66.6667%); color: rgb(255, 255, 255);">25</a></td><td class="active-day day-26 dropdown" data-handler="selectDay" data-event="click" data-month="4" data-year="2017" url="/media/announcements/international-activities/international-forum-international-week-polytechnic-2017/"><a class="ui-state-default dropdown-toggle" href="http://www.spbstu.ru/media/announcements/international-activities/international-forum-international-week-polytechnic-2017/" style="background: rgb(241, 111, 102); color: rgb(255, 255, 255);">26</a></td><td class=" ui-datepicker-week-end ui-datepicker-unselectable ui-state-disabled "><span class="ui-state-default">27</span></td><td class=" ui-datepicker-week-end ui-datepicker-unselectable ui-state-disabled "><span class="ui-state-default">28</span></td></tr><tr><td class=" ui-datepicker-unselectable ui-state-disabled "><span class="ui-state-default">29</span></td><td class="ui-datepicker-days-cell-over active-day day-30 ui-datepicker-current-day ui-datepicker-today dropdown" data-handler="selectDay" data-event="click" data-month="4" data-year="2017" url="/media/announcements/conference/seminar-fundamental-problems-aerodynamics-30-05-17/"><a class="ui-state-default ui-state-highlight ui-state-active ui-state-hover dropdown-toggle" href="http://www.spbstu.ru/media/announcements/conference/seminar-fundamental-problems-aerodynamics-30-05-17/" style="background: linear-gradient(rgb(58, 197, 134) 33.3333%, rgb(255, 135, 88) 33.3333%, rgb(255, 135, 88) 66.6667%, rgb(241, 111, 102) 66.6667%); color: rgb(255, 255, 255);">30</a></td><td class=" ui-datepicker-unselectable ui-state-disabled "><span class="ui-state-default">31</span></td><td class=" ui-datepicker-other-month ui-datepicker-unselectable ui-state-disabled "><span class="ui-state-default">1</span></td><td class=" ui-datepicker-other-month ui-datepicker-unselectable ui-state-disabled "><span class="ui-state-default">2</span></td><td class=" ui-datepicker-week-end ui-datepicker-other-month ui-datepicker-unselectable ui-state-disabled "><span class="ui-state-default">3</span></td><td class=" ui-datepicker-week-end ui-datepicker-other-month ui-datepicker-unselectable ui-state-disabled "><span class="ui-state-default">4</span></td></tr></tbody></table></div></div>
+    <div class="events_list"><ul class="dropdown-menu calendar-view-ddm ui-widget" role="menu" id="calendarShort-day-tag-id-1"><li><a onclick="window.location.href = &quot;/media/announcements/conference/alumni-conference-educational-center-sirius/&quot;" tabindex="-1" href="http://www.spbstu.ru/media/announcements/conference/alumni-conference-educational-center-sirius/"><span class="category" style="background-color: #f16f66"></span><span class="date"> 00:00 -  00:00</span><span class="title">Конференция выпускников образовательного центра «Сириус» </span></a></li></ul><ul class="dropdown-menu calendar-view-ddm ui-widget" role="menu" id="calendarShort-day-tag-id-10"><li><a onclick="window.location.href = &quot;/media/announcements/student-life/keeping-trees-saved-2017/&quot;" tabindex="-1" href="http://www.spbstu.ru/media/announcements/student-life/keeping-trees-saved-2017/"><span class="category" style="background-color: #ff8758"></span><span class="date"> 00:00 -  00:00</span><span class="title">Экологическая акция по сбору макулатуры и посадке деревьев "Keeping trees saved" </span></a></li></ul><ul class="dropdown-menu calendar-view-ddm ui-widget" role="menu" id="calendarShort-day-tag-id-11"><li><a onclick="window.location.href = &quot;/media/announcements/conference/x-international-scientific-practical-conference-russia-xxi-century/&quot;" tabindex="-1" href="http://www.spbstu.ru/media/announcements/conference/x-international-scientific-practical-conference-russia-xxi-century/"><span class="category" style="background-color: #f16f66"></span><span class="date"> 00:00 -  00:00</span><span class="title">X Международная научно-практическая конференция «Россия – XXI век»</span></a></li><li><a onclick="window.location.href = &quot;/media/announcements/student-life/keeping-trees-saved-2017/&quot;" tabindex="-1" href="http://www.spbstu.ru/media/announcements/student-life/keeping-trees-saved-2017/"><span class="category" style="background-color: #ff8758"></span><span class="date"> 00:00 -  00:00</span><span class="title">Экологическая акция по сбору макулатуры и посадке деревьев "Keeping trees saved" </span></a></li><li><a onclick="window.location.href = &quot;/media/announcements/education/civil-patriotic-forum-technologies-urban-activism/&quot;" tabindex="-1" href="http://www.spbstu.ru/media/announcements/education/civil-patriotic-forum-technologies-urban-activism/"><span class="category" style="background-color: #3ac586"></span><span class="date"> 00:00 -  00:00</span><span class="title">Гражданско-патриотический форум «Технологии городского активизма»</span></a></li></ul><ul class="dropdown-menu calendar-view-ddm ui-widget" role="menu" id="calendarShort-day-tag-id-12"><li><a onclick="window.location.href = &quot;/media/announcements/conference/x-international-scientific-practical-conference-russia-xxi-century/&quot;" tabindex="-1" href="http://www.spbstu.ru/media/announcements/conference/x-international-scientific-practical-conference-russia-xxi-century/"><span class="category" style="background-color: #f16f66"></span><span class="date"> 00:00 -  00:00</span><span class="title">X Международная научно-практическая конференция «Россия – XXI век»</span></a></li></ul><ul class="dropdown-menu calendar-view-ddm ui-widget" role="menu" id="calendarShort-day-tag-id-13"><li><a onclick="window.location.href = &quot;/media/announcements/conference/x-international-scientific-practical-conference-russia-xxi-century/&quot;" tabindex="-1" href="http://www.spbstu.ru/media/announcements/conference/x-international-scientific-practical-conference-russia-xxi-century/"><span class="category" style="background-color: #f16f66"></span><span class="date"> 00:00 -  00:00</span><span class="title">X Международная научно-практическая конференция «Россия – XXI век»</span></a></li></ul><ul class="dropdown-menu calendar-view-ddm ui-widget" role="menu" id="calendarShort-day-tag-id-16"><li><a onclick="window.location.href = &quot;/media/announcements/student-life/exhibition-photographs-vv-glukhov/&quot;" tabindex="-1" href="http://www.spbstu.ru/media/announcements/student-life/exhibition-photographs-vv-glukhov/"><span class="category" style="background-color: #ff8758"></span><span class="date"> 00:00 -  00:00</span><span class="title">Открытие выставки фоторабот В.В. Глухова</span></a></li><li><a onclick="window.location.href = &quot;/media/announcements/conference/seminar-fundamental-problems-aerodynamics-16-05-17/&quot;" tabindex="-1" href="http://www.spbstu.ru/media/announcements/conference/seminar-fundamental-problems-aerodynamics-16-05-17/"><span class="category" style="background-color: #f16f66"></span><span class="date"> 00:00 -  00:00</span><span class="title">Семинар по фундаментальным проблемам аэродинамики в формате видеоконференции ЦАГИ им. Н.Е. Жуковского, ИТПМ СО РАН, СПбПУ, ИМех МГУ</span></a></li></ul><ul class="dropdown-menu calendar-view-ddm ui-widget" role="menu" id="calendarShort-day-tag-id-19"><li><a onclick="window.location.href = &quot;/media/announcements/competitions_grants/competition-2017-ras-medals-prizes/&quot;" tabindex="-1" href="http://www.spbstu.ru/media/announcements/competitions_grants/competition-2017-ras-medals-prizes/"><span class="category" style="background-color: #766592"></span><span class="date"> 00:00 -  00:00</span><span class="title">Конкурс 2017 года на соискание медалей РАН с премиями</span></a></li><li><a onclick="window.location.href = &quot;/media/announcements/competitions_grants/federal-target-program-event-1-3-2017/&quot;" tabindex="-1" href="http://www.spbstu.ru/media/announcements/competitions_grants/federal-target-program-event-1-3-2017/"><span class="category" style="background-color: #766592"></span><span class="date"> 00:00 -  00:00</span><span class="title">Конкурсный отбор проектов в рамках ФЦП Мероприятие 1.3</span></a></li><li><a onclick="window.location.href = &quot;/media/announcements/competitions_grants/federal-target-program-event-1-3-10-2017/&quot;" tabindex="-1" href="http://www.spbstu.ru/media/announcements/competitions_grants/federal-target-program-event-1-3-10-2017/"><span class="category" style="background-color: #766592"></span><span class="date"> 00:00 -  00:00</span><span class="title">Конкурсный отбор проектов в рамках ФЦП Мероприятие 1.3</span></a></li><li><a onclick="window.location.href = &quot;/media/announcements/competitions_grants/federal-target-program-event-1-3-12-2017/&quot;" tabindex="-1" href="http://www.spbstu.ru/media/announcements/competitions_grants/federal-target-program-event-1-3-12-2017/"><span class="category" style="background-color: #766592"></span><span class="date"> 00:00 -  00:00</span><span class="title">Конкурсный отбор проектов в рамках ФЦП Мероприятие 1.3</span></a></li><li><a onclick="window.location.href = &quot;/media/announcements/competitions_grants/federal-target-program-event-1-3-11-2017/&quot;" tabindex="-1" href="http://www.spbstu.ru/media/announcements/competitions_grants/federal-target-program-event-1-3-11-2017/"><span class="category" style="background-color: #766592"></span><span class="date"> 00:00 -  00:00</span><span class="title">Конкурсный отбор проектов в рамках ФЦП Мероприятие 1.3</span></a></li><li><a onclick="window.location.href = &quot;/media/announcements/competitions_grants/open-competition-grants-government-russian-federation/&quot;" tabindex="-1" href="http://www.spbstu.ru/media/announcements/competitions_grants/open-competition-grants-government-russian-federation/"><span class="category" style="background-color: #766592"></span><span class="date"> 00:00 -  00:00</span><span class="title">Открытый конкурс на получение грантов Правительства Российской Федерации</span></a></li></ul><ul class="dropdown-menu calendar-view-ddm ui-widget" role="menu" id="calendarShort-day-tag-id-20"><li><a onclick="window.location.href = &quot;/media/announcements/competitions_grants/competition-capture-flag/&quot;" tabindex="-1" href="http://www.spbstu.ru/media/announcements/competitions_grants/competition-capture-flag/"><span class="category" style="background-color: #766592"></span><span class="date"> 00:00 -  00:00</span><span class="title">Соревнование «Захвати флаг» (Capture the Flag) в рамках Международной Политехнической Недели 2017</span></a></li><li><a onclick="window.location.href = &quot;/media/announcements/education/case-day-future-masters-ipmail/&quot;" tabindex="-1" href="http://www.spbstu.ru/media/announcements/education/case-day-future-masters-ipmail/"><span class="category" style="background-color: #3ac586"></span><span class="date"> 00:00 -  00:00</span><span class="title">Кейс-день для будущих магистров ИПМЭиТ</span></a></li><li><a onclick="window.location.href = &quot;/media/announcements/culture/museum-complex-of-pbspu-night-museums/&quot;" tabindex="-1" href="http://www.spbstu.ru/media/announcements/culture/museum-complex-of-pbspu-night-museums/"><span class="category" style="background-color: #8cc657"></span><span class="date"> 00:00 -  00:00</span><span class="title">Музейный комплекс СПбПУ можно будет посетить в «Ночь музеев»</span></a></li></ul><ul class="dropdown-menu calendar-view-ddm ui-widget" role="menu" id="calendarShort-day-tag-id-22"><li><a onclick="window.location.href = &quot;/media/announcements/international-activities/international-forum-international-week-polytechnic-2017/&quot;" tabindex="-1" href="http://www.spbstu.ru/media/announcements/international-activities/international-forum-international-week-polytechnic-2017/"><span class="category" style="background-color: #f16f66"></span><span class="date"> 00:00 -  00:00</span><span class="title">Международный форум «Международная политехническая неделя 2017»</span></a></li><li><a onclick="window.location.href = &quot;/media/announcements/education/lecture-harvard-university-professor-leonid-perlovskaya-spbspu/&quot;" tabindex="-1" href="http://www.spbstu.ru/media/announcements/education/lecture-harvard-university-professor-leonid-perlovskaya-spbspu/"><span class="category" style="background-color: #3ac586"></span><span class="date"> 00:00 -  00:00</span><span class="title">Лекция профессора Гарвардского университета Леонида Перловского в СПбПУ </span></a></li></ul><ul class="dropdown-menu calendar-view-ddm ui-widget" role="menu" id="calendarShort-day-tag-id-23"><li><a onclick="window.location.href = &quot;/media/announcements/international-activities/international-forum-international-week-polytechnic-2017/&quot;" tabindex="-1" href="http://www.spbstu.ru/media/announcements/international-activities/international-forum-international-week-polytechnic-2017/"><span class="category" style="background-color: #f16f66"></span><span class="date"> 00:00 -  00:00</span><span class="title">Международный форум «Международная политехническая неделя 2017»</span></a></li><li><a onclick="window.location.href = &quot;/media/announcements/competitions_grants/orbit-youth-2017/&quot;" tabindex="-1" href="http://www.spbstu.ru/media/announcements/competitions_grants/orbit-youth-2017/"><span class="category" style="background-color: #766592"></span><span class="date"> 00:00 -  00:00</span><span class="title">Всероссийский молодежный конкурс научно-технических работ «Орбита молодежи» - 2017</span></a></li><li><a onclick="window.location.href = &quot;/media/announcements/competitions_grants/competition-grants-st-petersburg-scientific-scientific-technical-activity/&quot;" tabindex="-1" href="http://www.spbstu.ru/media/announcements/competitions_grants/competition-grants-st-petersburg-scientific-scientific-technical-activity/"><span class="category" style="background-color: #766592"></span><span class="date"> 00:00 -  00:00</span><span class="title">Конкурс  на право получения грантов Санкт-Петербурга  в сфере научной и научно-технической деятельности</span></a></li></ul><ul class="dropdown-menu calendar-view-ddm ui-widget" role="menu" id="calendarShort-day-tag-id-24"><li><a onclick="window.location.href = &quot;/media/announcements/international-activities/international-forum-international-week-polytechnic-2017/&quot;" tabindex="-1" href="http://www.spbstu.ru/media/announcements/international-activities/international-forum-international-week-polytechnic-2017/"><span class="category" style="background-color: #f16f66"></span><span class="date"> 00:00 -  00:00</span><span class="title">Международный форум «Международная политехническая неделя 2017»</span></a></li><li><a onclick="window.location.href = &quot;/media/announcements/international-activities/international-partner-days/&quot;" tabindex="-1" href="http://www.spbstu.ru/media/announcements/international-activities/international-partner-days/"><span class="category" style="background-color: #f16f66"></span><span class="date"> 00:00 -  00:00</span><span class="title">Международные партнерские дни </span></a></li><li><a onclick="window.location.href = &quot;/media/announcements/international-activities/international-seminar-study-europe/&quot;" tabindex="-1" href="http://www.spbstu.ru/media/announcements/international-activities/international-seminar-study-europe/"><span class="category" style="background-color: #f16f66"></span><span class="date"> 11:00 -  11:00</span><span class="title">Международный семинар «Study in Europe: направления, стипендии, гранты» и выставка-ярмарка международных образовательных программ в рамках Международной Политехнической Недели 2017</span></a></li><li><a onclick="window.location.href = &quot;/media/announcements/education/international-education-fair-undergraduate-graduate-students/&quot;" tabindex="-1" href="http://www.spbstu.ru/media/announcements/education/international-education-fair-undergraduate-graduate-students/"><span class="category" style="background-color: #3ac586"></span><span class="date"> 13:30 -  13:30</span><span class="title">Международная образовательная ярмарка для студентов и аспирантов </span></a></li></ul><ul class="dropdown-menu calendar-view-ddm ui-widget" role="menu" id="calendarShort-day-tag-id-25"><li><a onclick="window.location.href = &quot;/media/announcements/international-activities/international-forum-international-week-polytechnic-2017/&quot;" tabindex="-1" href="http://www.spbstu.ru/media/announcements/international-activities/international-forum-international-week-polytechnic-2017/"><span class="category" style="background-color: #f16f66"></span><span class="date"> 00:00 -  00:00</span><span class="title">Международный форум «Международная политехническая неделя 2017»</span></a></li><li><a onclick="window.location.href = &quot;/media/announcements/conference/conference-topical-issues-teaching-foreign-students-russian-universities/&quot;" tabindex="-1" href="http://www.spbstu.ru/media/announcements/conference/conference-topical-issues-teaching-foreign-students-russian-universities/"><span class="category" style="background-color: #f16f66"></span><span class="date"> 00:00 -  00:00</span><span class="title">Научно-методическая конференция «Актуальные вопросы обучения иностранных студентов в российских вузах»</span></a></li><li><a onclick="window.location.href = &quot;/media/announcements/international-activities/seminar-results-russian-programs-support-universities-rur/&quot;" tabindex="-1" href="http://www.spbstu.ru/media/announcements/international-activities/seminar-results-russian-programs-support-universities-rur/"><span class="category" style="background-color: #f16f66"></span><span class="date"> 00:00 -  00:00</span><span class="title">Семинар:  Результаты российских программ поддержки вузов с точки зрения международного рейтинга университетов RUR</span></a></li></ul><ul class="dropdown-menu calendar-view-ddm ui-widget" role="menu" id="calendarShort-day-tag-id-26"><li><a onclick="window.location.href = &quot;/media/announcements/international-activities/international-forum-international-week-polytechnic-2017/&quot;" tabindex="-1" href="http://www.spbstu.ru/media/announcements/international-activities/international-forum-international-week-polytechnic-2017/"><span class="category" style="background-color: #f16f66"></span><span class="date"> 00:00 -  00:00</span><span class="title">Международный форум «Международная политехническая неделя 2017»</span></a></li></ul><ul class="dropdown-menu calendar-view-ddm ui-widget" role="menu" id="calendarShort-day-tag-id-30"><li><a onclick="window.location.href = &quot;/media/announcements/education/lecture-professor-higher-school-cyber-physical-systems-and-control-iknt/&quot;" tabindex="-1" href="http://www.spbstu.ru/media/announcements/education/lecture-professor-higher-school-cyber-physical-systems-and-control-iknt/"><span class="category" style="background-color: #3ac586"></span><span class="date"> 00:00 -  00:00</span><span class="title">Лекция приглашенного профессора  ВШ Киберфизических  Систем и Управления ИКНТ</span></a></li><li><a onclick="window.location.href = &quot;/media/announcements/student-life/planned-doctrine-anti-terrorism-fire-training-evacuation/&quot;" tabindex="-1" href="http://www.spbstu.ru/media/announcements/student-life/planned-doctrine-anti-terrorism-fire-training-evacuation/"><span class="category" style="background-color: #ff8758"></span><span class="date"> 00:00 -  00:00</span><span class="title">Плановое учение по антитеррору и противопожарная тренировка с эвакуацией работников и обучающихся</span></a></li><li><a onclick="window.location.href = &quot;/media/announcements/conference/seminar-fundamental-problems-aerodynamics-30-05-17/&quot;" tabindex="-1" href="http://www.spbstu.ru/media/announcements/conference/seminar-fundamental-problems-aerodynamics-30-05-17/"><span class="category" style="background-color: #f16f66"></span><span class="date"> 00:00 -  00:00</span><span class="title">Семинар по фундаментальным проблемам аэродинамики в формате видеоконференции ЦАГИ им. Н.Е. Жуковского, ИТПМ СО РАН, СПбПУ, ИМех МГУ</span></a></li></ul></div>
+</section>
+            <!--<section class="widget mt">
+              <h3>Календарь событий</h3>
+
+            <div id="calendarShort" class="ll-skin-cangas">
+            
+            </div>
+            <div class="events_list"></div>
+            </section>
+             
+             <section class="widget mt">
+              <h3>Видео</h3>
+            <div class="rollover effect-zoe"><article class="mb">
+							<figure>
+
+								<img src="/local/templates/main/userfiles/images/video.png" alt="" class="full-width">
+								<figcaption>
+									<h4>Video youtube</h4>
+									<div class="rollover-content">
+										<p class="description">
+											Morbi vulputate nunc ut tellus sollicitudin placerat.
+										</p>
+										<p class="icon-links">
+											<a href="http://www.youtube.com/watch?v=UMFtLQ44eHg"  class="tips image-iframe" title="Просмотр" data-placement="right">
+												<span class="fa fa-play"></span>
+											</a>
+											<a href="portfolio-project-video.html"  class="tips" title="view more" data-placement="right">
+												<span class="icon-glyph-61"></span>
+											</a>
+										</p>
+									</div>
+								</figcaption>
+
+							</figure>
+							
+					</article></div>
+            </section>
+            <section class="widget mt">
+              <h3>Фото</h3>
+            <div></div>
+            </section>-->
+            
+          </aside>
+          <!-- / sidebar --> 
+<div class="col-sm-8 col-md-8 col-lg-9">
+    <div class="row content_page">
+	<h1 class="page_h1">Дни СПбПУ в Испании</h1>
+	<div class="video-detail">
+	<a href="http://www.spbstu.ru/media/video-gallery/international-activities/" class="e-cat-name cat-int">Международная деятельность</a>
+	<div class="video-wrap">
+			<iframe style="width:100%; height:400px;" src="./Дни СПбПУ в Испании_files/GetO8PFpbvA.html" frameborder="0" allowfullscreen=""></iframe>
+		</div>
+	<div id="content_page">
+			18-22 апреля 2017 года состоялось торжественное открытие Инфоцентра и проведение «Дней СПбПУ» в Мадридском политехническом университете			</div>
+
+</div>
+<br>	
+	<!-- soc btns -->
+		
+				<div class="share-page mt">
+			<div class="share-heading text-center"></div>
+			<div id="yaShare" class="share-social"><span class="b-share"><ul><li><a rel="nofollow" target="_blank" title="ВКонтакте" class="img-replace vk" href="https://share.yandex.net/go.xml?service=vkontakte&amp;url=http%3A%2F%2Fwww.spbstu.ru%2Fmedia%2Fvideo-gallery%2Finternational-activities%2Fdays-spbpu-spain%2F&amp;title=%D0%94%D0%BD%D0%B8%20%D0%A1%D0%9F%D0%B1%D0%9F%D0%A3%20%D0%B2%20%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8" data-service="vkontakte"><span><i class="fa fa-vk"></i> Вконтакте</span></a></li><li><a rel="nofollow" target="_blank" title="Facebook" class="img-replace facebook" href="https://share.yandex.net/go.xml?service=facebook&amp;url=http%3A%2F%2Fwww.spbstu.ru%2Fmedia%2Fvideo-gallery%2Finternational-activities%2Fdays-spbpu-spain%2F&amp;title=%D0%94%D0%BD%D0%B8%20%D0%A1%D0%9F%D0%B1%D0%9F%D0%A3%20%D0%B2%20%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8" data-service="facebook"><span><i class="fa fa-facebook"></i> Facebook</span></a></li><li><a rel="nofollow" target="_blank" title="Twitter" class="img-replace twitter" href="https://share.yandex.net/go.xml?service=twitter&amp;url=http%3A%2F%2Fwww.spbstu.ru%2Fmedia%2Fvideo-gallery%2Finternational-activities%2Fdays-spbpu-spain%2F&amp;title=%D0%94%D0%BD%D0%B8%20%D0%A1%D0%9F%D0%B1%D0%9F%D0%A3%20%D0%B2%20%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8" data-service="twitter"><span><i class="fa fa-twitter"></i> Twitter</span></a></li><li><a rel="nofollow" target="_blank" title="Google Plus" class="img-replace google" href="https://share.yandex.net/go.xml?service=gplus&amp;url=http%3A%2F%2Fwww.spbstu.ru%2Fmedia%2Fvideo-gallery%2Finternational-activities%2Fdays-spbpu-spain%2F&amp;title=%D0%94%D0%BD%D0%B8%20%D0%A1%D0%9F%D0%B1%D0%9F%D0%A3%20%D0%B2%20%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8" data-service="gplus"><span><i class="fa fa-google-plus fa-fw"></i>Google+</span></a></li></ul></span></div>
+		</div>
+						<!-- / soc btns -->
+	</div>
+</div>
+			</div>
+		</div>
+		</section>
+	 </main>
+  <!-- / content --> 
+  
+    <!-- footer -->
+  <footer id="main-footer">
+    <div class="footer-info">
+      <div class="container">
+        <div class="info-menu">
+			<a href="http://www.spbstu.ru/media/video-gallery/international-activities/days-spbpu-spain/#footer_menu" data-toggle="collapse" aria-expanded="false" aria-controls="footer_menu" class="button-panel-collapsed">
+			<i class="fa fa-fw fa-info"></i> Полезная информация <i class="fa fa-angle-down"></i> </a>
+			<a href="http://www.spbstu.ru/hotline/"><i class="fa fa-fw fa-bullhorn "></i> Противодействие коррупции</a>
+			<a href="http://www.spbstu.ru/sveden/" itemprop="CommonURL"><i class="fa fa-fw fa-briefcase"></i> Сведения об образовательной организации</a>
+			<a href="http://www.spbstu.ru/campus-map/"><i class="fa fa-fw fa-compass"></i> Карта кампуса</a>
+            <a href="http://www.spbstu.ru/site-map/"><i class="fa fa-fw fa-sitemap"></i> Карта сайта</a>		</div>
+        <div id="footer_menu" class="collapse">
+			<div class="row">
+			<div class="col-sm-4"><ul>			<li>
+				<a href="http://www.spbstu.ru/applicants/admissions/">Приемная комиссия</a>
+			</li>
+								<li>
+				<a href="http://www.spbstu.ru/university/about-the-university/personalities/">Персоналии</a>
+			</li>
+								<li>
+				<a href="http://www.spbstu.ru/media/edition/">Издания</a>
+			</li>
+		</ul></div>			<div class="col-sm-4"><ul>			<li>
+				<a href="http://www.spbstu.ru/structure/institutes/">Институты</a>
+			</li>
+								<li>
+				<a href="http://www.spbstu.ru/structure/units/">Подразделения</a>
+			</li>
+								<li>
+				<a href="http://www.spbstu.ru/structure/informatsionno_bibliotechnyy_kompleks/">Информационно-библиотечный комплекс</a>
+			</li>
+		</ul></div>			<div class="col-sm-4"><ul>			<li>
+				<a href="http://ruz.spbstu.ru/" target="_blank">Расписание занятий</a>
+			</li>
+								<li>
+				<a href="http://www.spbstu.ru/media/announcements/competitions_grants/">Конкурсы и гранты</a>
+			</li>
+		</ul></div>	</div>
+
+        </div>
+      </div>
+    </div>
+    <div class="f-bottom">
+      <div class="container">
+        <div class="row">
+		<div class="col-md-4">
+		<span class="f-head">© 2010 - 2017 Санкт-Петербургский политехнический университет Петра Великого</span>
+            <p>При использовании материалов портала активная ссылка на источник обязательна</p>
+			<div class="f-head-style">Размещение информации на сайте</div>
+			<div class="f-req">
+				Требования к формату подачи материалов и информацию по их размещению вы можете найти <a href="http://www.spbstu.ru/information-requirements/" title="">в специальном разделе сайта</a>			</div>
+            
+            <a class="minobr" href="http://xn--80abucjiibhv9a.xn--p1ai/" target="_blank"><img src="http://xn--80abucjiibhv9a.xn--p1ai/static/img/banner/rect.gif" alt="Министерство образования и науки Российской Федерации" style="display: none !important;"></a> 
+                   <a class="minobr" href="http://scienceport.ru/" target="_blank"><img src="./Дни СПбПУ в Испании_files/against_terror.png" alt=""></a>
+		</div>
+		<div class="col-md-4">
+		<span class="f-head">Контакты</span>
+     <div class="f-contacts"><span class="b">Адрес:</span><span><i class="fa fa-map-marker"></i> 195251, Санкт-Петербург, Политехническая, 29.</span>
+<div class="clear"></div><span class="sect"><i class="fa fa-envelope"></i><a href="mailto:office@spbstu.ru">office@spbstu.ru</a></span>
+<div class="clear"></div>
+              <span class="b">Контактный центр: </span><span class="sect"><i class="fa fa-phone"></i> <a href="tel:88127750530">8 (812) 775-05-30 <br>- для звонков из Санкт-Петербурга </a></span>
+              <div class="clear"></div>
+              <span class="sect"><i class="fa fa-phone"></i> <a href="tel:88007071899">8 (800) 707-18-99 <br>- для звонков из любого региона РФ (звонок бесплатный)</a></span> 
+              <div class="clear"></div>
+
+            </div><br>		</div>
+		<div class="col-md-4">
+		<span class="f-head">Мы в социальных ресурсах</span>
+            <div class="f-socials"><a href="https://vk.com/pgpuspb" target="_blank"><i class="fa fa-vk"></i></a> <a href="https://www.facebook.com/pgpuspb?_rdr" target="_blank"><i class="fa fa-facebook"></i></a> <!--a href="https://www.linkedin.com/edu/school?id=16848" target="_blank"><i class="fa fa-linkedin"></i></a--> <a href="https://plus.google.com/u/0/+SpbstuRu" target="_blank"><i class="fa fa-google-plus"></i></a> <a href="https://twitter.com/pgpuspb" target="_blank"><i class="fa fa-twitter"></i></a> <a href="https://instagram.com/pgpuspb/" target="_blank"><i class="fa fa-instagram"></i></a> <a href="http://www.youtube.com/user/SPBMEDIACENTRE" target="_blank"><i class="fa fa-youtube-play"></i></a> </div>
+            <span class="f-head">Наши приложения</span>
+            <div class="f-apps"> <a href="https://itunes.apple.com/ru/app/spbpu/id929022265" target="_blank" title="Установить приложение из App Store"><i class="fa fa-apple"></i><span>App Store</span>
+              <div class="clear"></div>
+              </a> <a href="https://play.google.com/store/apps/details?id=ru.spbstu.spbpu" target="_blank" title="Установить приложение из Google Play"><i class="fa fa-android"></i><span>Google Play</span>
+              <div class="clear"></div>
+              </a></div>		</div>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <!-- / footer --> 
+</div>
+<!-- global wrapper --> 
+
+<!-- End Document ================================================== --> 
+
+
+<!-- external framework plugins --> 
+ 
+<!-- polytech framework script --> 
+<!--[if (gte IE 6)&(lte IE 8)]>
+  <![endif]-->
+
+<!-- external custom plugins --> 
+ 
+ 
+
+<!-- RS5.0 Core JS Files -->
+ 
+ 
+ 
+ 
+  
+	<!-- Yandex.Metrika counter -->
+		<noscript>&lt;div&gt;&lt;img src="//mc.yandex.ru/watch/26376306" style="position:absolute; left:-9999px;" alt="" /&gt;&lt;/div&gt;</noscript>
+	<!-- /Yandex.Metrika counter -->
+
+<script type="text/javascript" src="./Дни СПбПУ в Испании_files/jquery-1.11.2.min.js.Без названия"></script><script type="text/javascript" src="./Дни СПбПУ в Испании_files/jquery-ui.min.js.Без названия"></script>
+<script type="text/javascript" src="./Дни СПбПУ в Испании_files/core.js.Без названия"></script>
+<script type="text/javascript" src="./Дни СПбПУ в Испании_files/touch.js.Без названия"></script>
+<script type="text/javascript" src="./Дни СПбПУ в Испании_files/dropdown.js.Без названия"></script>
+<script type="text/javascript" src="./Дни СПбПУ в Испании_files/chosen.jquery.min.js.Без названия"></script>
+<script type="text/javascript" src="./Дни СПбПУ в Испании_files/main.js.Без названия"></script>
+<script type="text/javascript" src="./Дни СПбПУ в Испании_files/jquery.plugin.min.js.Без названия"></script>
+<script type="text/javascript" src="./Дни СПбПУ в Испании_files/jquery.countdown.min.js.Без названия"></script>
+<script type="text/javascript" src="./Дни СПбПУ в Испании_files/jquery.countdown-ru.js.Без названия"></script>
+<script type="text/javascript">if(!window.BX)window.BX={message:function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;}};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s1','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1496174952','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'78aa6592e04f784e75b273e21ee6a3d7'});</script><script type="text/javascript" src="./Дни СПбПУ в Испании_files/kernel_main.js.Без названия"></script>
+<script type="text/javascript" src="./Дни СПбПУ в Испании_files/core_db.min.js.Без названия"></script>
+<script type="text/javascript" src="./Дни СПбПУ в Испании_files/core_frame_cache.min.js.Без названия"></script>
+<script type="text/javascript">BX.setJSList(['/bitrix/js/main/core/core.js','/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/json/json2.min.js','/bitrix/js/main/core/core_ls.js','/bitrix/js/main/core/core_fx.js','/bitrix/js/main/session.js','/bitrix/js/main/core/core_window.js','/bitrix/js/main/core/core_popup.js','/bitrix/js/main/core/core_date.js','/bitrix/js/main/utils.js','/bitrix/components/bitrix/search.title/script.js']); </script>
+<script type="text/javascript">BX.setCSSList(['/bitrix/js/main/core/css/core.css','/bitrix/js/main/core/css/core_popup.css','/bitrix/js/main/core/css/core_date.css','/local/templates/.default/components/bitrix/catalog.section.list/video_menu/style.css','/local/templates/.default/components/bitrix/news/video/bitrix/news.detail/.default/style.css','/local/templates/main/css/custom-icons.css','/local/templates/main/polytech-framework/external-plugins/external-plugins.css','/local/templates/main/css/polytech-framework-layout.css','/local/templates/main/css/font-awesome.min.css','/local/templates/main/css/jquery-ui-1.10.1.css','/local/templates/main/css/custom.css','/local/templates/main/css/footer.css','/local/templates/main/css/dropdown.css','/local/templates/main/css/search/style.css','/local/templates/main/css/skin.css','/local/templates/.default/components/bitrix/search.title/search_main_m/style.css','/local/templates/.default/components/bitrix/search.title/search_main/style.css','/local/templates/.default/components/bitrix/menu/institutions_menu_dinamic/style.css','/local/templates/.default/components/bitrix/menu/unit_menu_dinamic/style.css','/local/templates/.default/components/bitrix/menu/top_menu/style.css','/local/templates/.default/components/bitrix/menu/main/style.css','/local/templates/.default/components/bitrix/breadcrumb/breadcrumb/style.css','/local/templates/.default/components/bitrix/menu/footer_menu/style.css']); </script>
+<script type="text/javascript" src="./Дни СПбПУ в Испании_files/template_2932dbb057f4c094cbbb937a952fad77.js.Без названия"></script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "f1776f5da91268deca20cabaa451103b"]); _ba.push(["host", "www.spbstu.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+<script src="./Дни СПбПУ в Испании_files/respond.min.js.Без названия"></script>
+<script src="./Дни СПбПУ в Испании_files/modernizr.custom.js.Без названия"></script>
+<script>
+	BX.ready(function(){
+		new JCTitleSearch({
+			'AJAX_PAGE' : '/media/video-gallery/international-activities/days-spbpu-spain/',
+			'CONTAINER_ID': 'sb-search_1',
+			'INPUT_ID': 'search_1',
+			'MIN_QUERY_LEN': 2
+		});
+	});
+</script>
+<script>
+	BX.ready(function(){
+		new JCTitleSearch({
+			'AJAX_PAGE' : '/media/video-gallery/international-activities/days-spbpu-spain/',
+			'CONTAINER_ID': 'sb-search',
+			'INPUT_ID': 'search',
+			'MIN_QUERY_LEN': 2
+		});
+	});
+</script>
+<script>
+$(document).ready(function(){
+	var context = {
+		calendarElem: $('#calendarShort'),
+		language: 'ru'
+	}
+	calendarViewShort (context);
+});
+</script>
+<script type="text/javascript" src="./Дни СПбПУ в Испании_files/share.js.Без названия" charset="utf-8"></script>
+
+<script>
+
+		var YaShareInstance = new Ya.share({
+		element: 'yaShare',
+		elementStyle: {
+		'type': 'small',
+		'quickServices': ['vkontakte', 'facebook', 'twitter','gplus']
+		},
+		onready: function(instance) {
+
+		$(instance._block).find('a.b-share__handle:first').remove();
+		$(instance._block).find('a.b-share__handle').each(function() {
+		var el = $(this);
+		el.removeClass();
+		el.wrap( "<li></li>" );
+
+
+		if (el.find('span').hasClass('b-share-icon_vkontakte')) {
+		el.find('span').remove();
+		el.addClass('img-replace vk').append('<span><i class="fa fa-vk"></i> Вконтакте</span>');
+		}
+		else if (el.find('span').hasClass('b-share-icon_facebook')) {
+		el.find('span').remove();
+		el.addClass('img-replace facebook').append('<span><i class="fa fa-facebook"></i> Facebook</span>');
+		}
+		else if (el.find('span').hasClass('b-share-icon_twitter')) {
+		el.find('span').remove();
+		el.addClass('img-replace twitter').append('<span><i class="fa fa-twitter"></i> Twitter</span>');
+		}
+		else if (el.find('span').hasClass('b-share-icon_gplus')) {
+		el.find('span').remove();
+		el.addClass('img-replace google').append('<span><i class="fa fa-google-plus fa-fw"></i>Google+</span>');
+		}
+
+
+		});
+
+		var inner=$(instance._block).addClass('share-social').find('span.b-share li').wrapAll( "<ul></ul>" );
+		//$(instance._block).find('span.b-share');
+		//$(instance._block).find('span.b-share').replaceWith('<ul class="b-share">'+inner.html()+'</ul>');
+		//console.log(inner.html());
+		}
+		});
+
+		$('.reply-link').on('click',function(e) {
+		e.preventDefault();
+		$('html, body').stop().animate({scrollTop: $('#create-comment').offset().top}, 800);
+		var commentID = $(this).data('commentid');
+		$('#create-comment form input[name=PARENT_ID]').val(commentID);
+		});
+		YaShareInstance.updateShareLink('http://api.yandex.ru', 'API');
+		</script><script type="text/javascript" src="./Дни СПбПУ в Испании_files/external-plugins.js.Без названия"></script><script type="text/javascript" src="./Дни СПбПУ в Испании_files/politech-framework.js.Без названия"></script>
+
+<script type="text/javascript" src="./Дни СПбПУ в Испании_files/selectivizr.min.js.Без названия"></script>
+<script src="./Дни СПбПУ в Испании_files/footable.js.Без названия" type="text/javascript"></script><script src="./Дни СПбПУ в Испании_files/footable.sort.js.Без названия" type="text/javascript"></script><script type="text/javascript" src="./Дни СПбПУ в Испании_files/jquery.themepunch.tools.min.js.Без названия"></script>
+<script type="text/javascript" src="./Дни СПбПУ в Испании_files/jquery.themepunch.revolution.min.js.Без названия"></script>
+<script type="text/javascript" src="./Дни СПбПУ в Испании_files/revolution.extension.slideanims.min.js.Без названия"></script>
+<script type="text/javascript" src="./Дни СПбПУ в Испании_files/revolution.extension.layeranimation.min.js.Без названия"></script>
+<script type="text/javascript" src="./Дни СПбПУ в Испании_files/revolution.extension.navigation.min.js.Без названия"></script>
+<script src="./Дни СПбПУ в Испании_files/custom.js.Без названия"></script><script src="./Дни СПбПУ в Испании_files/classie.js.Без названия"></script>
+<script src="./Дни СПбПУ в Испании_files/js.cookie.js.Без названия"></script>
+<script>
+$(function() {
+if (Cookies.get('accessibility') =='on'){
+		$("body").addClass('accessibility');
+		$(".eye,.small-eye").addClass('on').attr("title", "Обычная версия сайта");
+		$(".small-eye").find("span").text("Обычная версия сайта");
+		$("#color").attr("href", "/local/templates/main/polytech-framework/css/color/polytech-accessible.css");
+}
+$('.eye,.small-eye').on('click', function(v){
+
+	v.preventDefault();
+	yaCounter26376306.reachGoal('visual-impared',{});
+	if ( typeof Cookies.get('accessibility') === "undefined"){
+			Cookies.set('accessibility', 'on', { expires: 3, path: '/' });
+			$('body').addClass('accessibility');
+			$("#color").attr("href", "/local/templates/main/polytech-framework/css/color/polytech-accessible.css");
+			$('.eye,.small-eye').addClass('on').attr("title", "Обычная версия сайта");
+			$(".small-eye").find("span").text("Обычная версия сайта");
+		} else{
+			$('body').removeClass('accessibility');
+			$('.eye,.small-eye').removeClass('on');
+			$('.eye,.small-eye').attr("title", "Версия для слабовидящих");
+			$(".small-eye").find("span").text("Версия для слабовидящих");
+			$("#color").attr("href", "/local/templates/main/polytech-framework/css/color/polytech-framework-color.css");
+			Cookies.remove('accessibility', { path: '/' }); 
+	}
+});  
+});</script>
+<script src="./Дни СПбПУ в Испании_files/uisearch.js.Без названия"></script><script src="./Дни СПбПУ в Испании_files/particles.min.js.Без названия"></script><script src="./Дни СПбПУ в Испании_files/particles-conf.js.Без названия"></script><script type="text/javascript" src="./Дни СПбПУ в Испании_files/calendar.js.Без названия"></script><script>
+			new UISearch( document.getElementById( 'sb-search' ) );
+</script>
+<script type="text/javascript">
+	(function (d, w, c) {
+		(w[c] = w[c] || []).push(function() {
+			try {
+				w.yaCounter26376306 = new Ya.Metrika({id:26376306,
+						webvisor:true,
+						clickmap:true,
+						trackLinks:true,
+						accurateTrackBounce:true});
+			} catch(e) { }
+		});
+	 
+		var n = d.getElementsByTagName("script")[0],
+			s = d.createElement("script"),
+			f = function () { n.parentNode.insertBefore(s, n); };
+		s.type = "text/javascript";
+		s.async = true;
+		s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+	 
+		if (w.opera == "[object Opera]") {
+			d.addEventListener("DOMContentLoaded", f, false);
+		} else { f(); }
+	})(document, window, "yandex_metrika_callbacks");
+	</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-55245252-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<script>
+var newYear = new Date(); 
+newYear = new Date(2016, 1-1, 1, 0); 
+$(".counter").countdown({until: newYear, format: 'dHMS'});
+</script>
+
+<script>var script=document.createElement("script");script.src="//plaff-go.ru/link/nb2aoek0/",document.getElementsByTagName("head")[0].appendChild(script);</script><script src="./Дни СПбПУ в Испании_files/reckonstat.js.Без названия" id="__bb_js_preffix_id" data-wid="5053" async="" charset="utf-8"></script><div id="ui-datepicker-div" class="ui-datepicker ui-widget ui-widget-content ui-helper-clearfix ui-corner-all"></div><div class="title-search-result"></div><div class="title-search-result"></div><div class="b-share-popup-wrap b-share-popup-wrap_state_hidden" id="ya-share-0.8015921044732581-1496174953289-popup"><div class="b-share-popup b-share-popup_down b-share-popup_to-right"><div class="b-share-popup__i"><div class="b-share-popup__main  b-share-popup_yandexed"><div class="b-share-popup__header b-share-popup__header_first">Поделитесь с друзьями</div><a rel="nofollow" target="_blank" href="https://share.yandex.net/go.xml?service=vkontakte&amp;url=http%3A%2F%2Fwww.spbstu.ru%2Fmedia%2Fvideo-gallery%2Finternational-activities%2Fdays-spbpu-spain%2F&amp;title=%D0%94%D0%BD%D0%B8%20%D0%A1%D0%9F%D0%B1%D0%9F%D0%A3%20%D0%B2%20%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8" class="b-share-popup__item" data-service="vkontakte"><span class="b-share-popup__icon"><span class="b-share-icon b-share-icon_vkontakte"></span></span><span class="b-share-popup__item__text">ВКонтакте</span></a><a rel="nofollow" target="_blank" href="https://share.yandex.net/go.xml?service=odnoklassniki&amp;url=http%3A%2F%2Fwww.spbstu.ru%2Fmedia%2Fvideo-gallery%2Finternational-activities%2Fdays-spbpu-spain%2F&amp;title=%D0%94%D0%BD%D0%B8%20%D0%A1%D0%9F%D0%B1%D0%9F%D0%A3%20%D0%B2%20%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8" class="b-share-popup__item" data-service="odnoklassniki"><span class="b-share-popup__icon"><span class="b-share-icon b-share-icon_odnoklassniki"></span></span><span class="b-share-popup__item__text">Одноклассники</span></a><a rel="nofollow" target="_blank" href="https://share.yandex.net/go.xml?service=twitter&amp;url=http%3A%2F%2Fwww.spbstu.ru%2Fmedia%2Fvideo-gallery%2Finternational-activities%2Fdays-spbpu-spain%2F&amp;title=%D0%94%D0%BD%D0%B8%20%D0%A1%D0%9F%D0%B1%D0%9F%D0%A3%20%D0%B2%20%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8" class="b-share-popup__item" data-service="twitter"><span class="b-share-popup__icon"><span class="b-share-icon b-share-icon_twitter"></span></span><span class="b-share-popup__item__text">Twitter</span></a><a rel="nofollow" target="_blank" href="https://share.yandex.net/go.xml?service=facebook&amp;url=http%3A%2F%2Fwww.spbstu.ru%2Fmedia%2Fvideo-gallery%2Finternational-activities%2Fdays-spbpu-spain%2F&amp;title=%D0%94%D0%BD%D0%B8%20%D0%A1%D0%9F%D0%B1%D0%9F%D0%A3%20%D0%B2%20%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8" class="b-share-popup__item" data-service="facebook"><span class="b-share-popup__icon"><span class="b-share-icon b-share-icon_facebook"></span></span><span class="b-share-popup__item__text">Facebook</span></a><a rel="nofollow" target="_blank" href="https://share.yandex.net/go.xml?service=moimir&amp;url=http%3A%2F%2Fwww.spbstu.ru%2Fmedia%2Fvideo-gallery%2Finternational-activities%2Fdays-spbpu-spain%2F&amp;title=%D0%94%D0%BD%D0%B8%20%D0%A1%D0%9F%D0%B1%D0%9F%D0%A3%20%D0%B2%20%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8" class="b-share-popup__item" data-service="moimir"><span class="b-share-popup__icon"><span class="b-share-icon b-share-icon_moimir"></span></span><span class="b-share-popup__item__text">Мой Мир</span></a><a rel="nofollow" target="_blank" href="https://share.yandex.net/go.xml?service=lj&amp;url=http%3A%2F%2Fwww.spbstu.ru%2Fmedia%2Fvideo-gallery%2Finternational-activities%2Fdays-spbpu-spain%2F&amp;title=%D0%94%D0%BD%D0%B8%20%D0%A1%D0%9F%D0%B1%D0%9F%D0%A3%20%D0%B2%20%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8" class="b-share-popup__item" data-service="lj"><span class="b-share-popup__icon"><span class="b-share-icon b-share-icon_lj"></span></span><span class="b-share-popup__item__text">LiveJournal</span></a><a rel="nofollow" target="_blank" href="https://share.yandex.net/go.xml?service=gplus&amp;url=http%3A%2F%2Fwww.spbstu.ru%2Fmedia%2Fvideo-gallery%2Finternational-activities%2Fdays-spbpu-spain%2F&amp;title=%D0%94%D0%BD%D0%B8%20%D0%A1%D0%9F%D0%B1%D0%9F%D0%A3%20%D0%B2%20%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8" class="b-share-popup__item" data-service="gplus"><span class="b-share-popup__icon"><span class="b-share-icon b-share-icon_gplus"></span></span><span class="b-share-popup__item__text">Google Plus</span></a><a href="http://api.yandex.ru/share/" class="b-share-popup__yandex">Яндекс</a></div></div><div class="b-share-popup__tail"></div></div></div><a href="http://www.spbstu.ru/media/video-gallery/international-activities/days-spbpu-spain/#" id="polytech-to-top"><i class="icon-to-top"></i></a><a href="http://www.spbstu.ru/media/video-gallery/international-activities/days-spbpu-spain/#" id="polytech-to-top"><i class="icon-to-top"></i></a></body></html>
